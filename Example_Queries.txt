@@ -1,0 +1,91 @@
+graphrag query --root ./ragtest --method global --query "What are the top themes in the Christmas Carol story?"
+
+1. Redemption & Transformation:
+   - Scrooge's evolution: "I will honour Christmas in my heart" (Stave 5)
+2. Social Injustice:
+   - "Are there no prisons?" (Scrooge, Stave 1)
+3. Supernatural Intervention:
+   - "You will be haunted by Three Spirits" (Marley, Stave 1)
+
+
+graphrag query --root ./ragtest --method local --query "Who is Scrooge and what are his main relationships?"
+
+Ebenezer Scrooge:
+- Role: Miserly London businessman
+- Key relationships:
+  • Fred (nephew): "What reason have you to be merry? You're poor enough!" (Stave 1)
+  • Bob Cratchit (employee): "Let me hear another sound from you... and you'll keep your Christmas by losing your situation!" 
+  • Jacob Marley (deceased partner): "I wear the chain I forged in life" (Stave 1)
+  • Fan (deceased sister): "Scrooge's sister... a little girl much younger than he" (Stave 2)
+
+
+graphrag query --root ./ragtest --method local --query "Who is Ebenezer Scrooge, and how does his personality evolve across each stave? Cite the stave and key phrases."
+
+Stave 1: "Solitary as an oyster" (isolation)
+Stave 2: "There was a boy singing a Christmas Carol... I should like to have given him something" (regret)
+Stave 3: "Spirit, tell me if Tiny Tim will live" (empathy)
+Stave 4: "I am not the man I was" (remorse)
+Stave 5: "I'm quite a baby... laugh and cry at once" (redemption)
+Key change: From selfishness to communal responsibility
+
+
+graphrag query --root ./ragtest --method global --query "Identify the three main themes of A Christmas Carol, and support each with two text excerpts."
+
+1. Compassion vs. Greed:
+   - "Mankind was my business" (Marley's ghost)
+2. Consequences of Actions:
+   - "The chain he forged was long and heavy" (Marley's punishment)
+3. Supernatural Guidance:
+   - "I am the Ghost of Christmas Yet To Come" (Stave 4)
+
+graphrag query --root ./ragtest --method drift --query "How do Scrooge’s fears in Stave 3 differ from those in Stave 5? What changed in his outlook?"
+
+Stave 3 Fears:
+- External consequences: "Show me someone who feels emotion at this man's death"
+- Material loss: Ghost of Christmas Present's warnings
+
+Stave 5 Fears:
+- Internal failure: "I don't deserve to be so happy"
+- Time limitations: "I must make amends before nightfall"
+
+Change Trigger: Witnessing his own grave (Stave 4) transforms fear from punishment to urgency of redemption
+
+
+graphrag query --root ./ragtest --method global --query "ما العلاقة بين قطة شيرين والوزير خليل؟"
+
+العلاقة بين قطة شيرين والوزير خليل:
+1. علاقة غير مباشرة: القطة → خيط الحرير → مكان السرقة → تهمة ابن رشد → مؤامرة الوزير
+2. الدليل: "وجد ابن رشد خيط حرير أزرق عند مكان السرقة... القطة تتبع لسيدة تدعى شيرين"
+3. الدافع: الوزير خليل خطط للسرقة "ليشوه سمعة السلطان"
+
+
+graphrag query --root ./ragtest --method global --query "ما الأحداث التي سبقت بناء مسجد العافية؟"
+
+الأحداث السابقة لبناء مسجد العافية:
+1. اكتشاف القارورة: "وجد تاجر قارورة نحاسية في الصحراء"
+2. تحرير العفريت: "خرج عفريت هائل قال: سأقتلك!"
+3. الخداع: "جاء الراعي وقال: أتعرف أن هذه القارورة لا تسع قدمك؟"
+4. إعادة الحبس: "دخل العفريت القارورة... ألقى بها في بحيرة طبريا"
+5. بناء المسجد: "كذلك بنى التاجر مسجداً عند موقع الحادثة"
+
+
+graphrag query --root ./ragtest --method local --query "من المتورط في مؤامرة ضد السلطان قايتباي وما دوافعه؟"
+
+المتورطون في المؤامرة ضد السلطان قايتباي:
+1. الوزير خليل (المخطط الرئيسي):
+   - الدوافع: تشويه سمعة السلطان والاستيلاء على السلطة
+   - الأدلة: "كشف ابن رشد أن الوزير خطط للسرقة"
+
+2. شيرين (أداة غير مقصودة):
+   - الدوافع: حب الجدة المصورة ("أخذت اللوحة لأنها صورت جدتي")
+   - العلاقة: ابنة حارس القلعة المستخدمة كغطاء
+
+
+graphrag query --root ./ragtest --method global --query "كيف يرتبط حارس القلعة بسرقة اللوحة؟"
+
+ارتباط حارس القلعة بسرقة اللوحة:
+1. صلة القرابة: "شيرين ابنة حارس القلعة"
+2. صلة المكان: الحراسة تشمل دار الكتب حيث سُرقت اللوحة
+3. صلة غير مباشرة: "القطة المملوكة لشيرين كشفت الخيط الدال على المؤامرة"
+4. الإهمال غير المقصود: عدم مراقبة ابنته المستغَلة في الجريمة
+
