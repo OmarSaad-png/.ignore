@@ -1,3 +1,6 @@
+A Christmas Carol
+
+
 graphrag query --root ./ragtest --method global --query "What are the top themes in the Christmas Carol story?"
 
 1. Redemption & Transformation:
@@ -51,6 +54,12 @@ Stave 5 Fears:
 Change Trigger: Witnessing his own grave (Stave 4) transforms fear from punishment to urgency of redemption
 
 
+_____________________________________________________________________________________________________
+
+
+الف ليله و ليله
+
+
 graphrag query --root ./ragtest --method global --query "ما العلاقة بين قطة شيرين والوزير خليل؟"
 
 العلاقة بين قطة شيرين والوزير خليل:
@@ -89,3 +98,63 @@ graphrag query --root ./ragtest --method global --query "كيف يرتبط حا�
 3. صلة غير مباشرة: "القطة المملوكة لشيرين كشفت الخيط الدال على المؤامرة"
 4. الإهمال غير المقصود: عدم مراقبة ابنته المستغَلة في الجريمة
 
+
+_____________________________________________________________________________________________________
+
+
+The Chronicles of the Whispering Sands
+
+# Query 1: Multi-hop artifact journey
+graphrag query --root ./ragtest --method global --query "Trace the journey of the brass compass across all chapters"
+
+# Expected path:
+# Ch1: Hunter → Compass (abandoned) 
+# → Ch2: Swiftfoot → Hakim → Guides to Sinai 
+# → Ch6: Selim's boat → Nassir → Controls storms → Returned to Oak Grove
+
+# Query 2: Cross-chapter causality
+graphrag query --root ./ragtest --method global --query "How did the Reed Pond incident enable the jinn's capture?"
+
+# Connections:
+# Ch1: Reed Pond location discovered during heron rescue
+# → Ch1: Hunter's net materials from reeds
+# → Ch4: Clay composition identical to Reed Pond sediment
+# → Ch4: Potter uses clay to seal urn permanently
+
+# Query 3: Character network analysis
+graphrag query --root ./ragtest --method global --query "What connects Vizier Selim to Prince Rayan?"
+
+# Relationship chain:
+# Selim (Ch5) → Stole tapestry → Contained Rayan's map (Ch3) 
+# → Map led to Sinai treasure → Protected by Ember (Ch2) 
+# → Ember mentioned in compass (Ch1) → Used by Nassir against Selim (Ch6)
+
+# Query 4: Thematic connection
+graphrag query --root ./ragtest --method global --query "How does 'water' feature as a motif across all chapters?"
+
+# Water elements:
+# Ch1: Reed Pond (rescue site)
+# Ch2: Mediterranean storm (shipwreck)
+# Ch3: Moon-petal dew (magic ingredient)
+# Ch4: Euphrates River (urn disposal)
+# Ch5: Bosphorus Strait (tapestry theft location)
+# Ch6: Pearl Banks (final battle)
+
+# Query 5: Entity evolution
+graphrag query --root ./ragtest --method local --query "How does Ember the phoenix's role change throughout the story?"
+
+# Role progression:
+# Ch2: Treasure guardian (passive)
+# Ch5: Tapestry symbol (representational)
+# Ch6: Storm-summoned ally (active)
+# Evidence: "Ember's wings incinerated Zagora when Nassir activated compass"
+
+# Query 6: Reverse chronology 
+graphrag query --root ./ragtest --method global --query "What events led to the tapestry's creation, starting from its final theft?"
+
+# Backward chain:
+# Ch5 Theft → Ch5 Creation (Aisha) 
+# → Ch4 Fragment (Kareem) 
+# → Ch3 Fragment (Rayan's gift) 
+# → Ch2 Locket discovery (Hakim) 
+# → Ch1 Compass (origin point)
