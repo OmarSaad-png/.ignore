@@ -1,0 +1,2854 @@
+Text extracted from: Handbook - LDC New 1.pdf
+==================================================
+
+
+--- Page 1 ---
+ 
+1  
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Copyright  
+The copyright in this work vested in LINK Datacenter  for Data Exchange , and the document issued in confidence for the purpose only for which it supplied.  It must not 
+be reproduce d in whole or in part or used for tendering or manufacturing purposes except under an agreement or with the consent in writin g of LINK Datacenter  for 
+Data Exchange  and then only on the condition that this notice is included in any such reproductio n. No inf ormation as to the contents or subject matter of this document, 
+or any part thereof, arising directly or indirectly there from will be given orally or in writing or communicated in any mann er whatsoever to any third party, whether 
+an individual, f irm or co mpany, or any employee thereof, without the prior consent in writing of LINK Datacenter  for Data exchange . 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+ 
+LDC   
+Employee Handbook  
+ 
+
+
+--- Page 2 ---
+ 
+2  
+  EMPLOYEE HANDBOOK   
+Table of Contents  
+  
+Introduction ................................................................................... .... ...............................................5  
+2.1.1 PERSONNEL FILES ....................................................................................................... .........7  
+2.1.2 PERSONNEL DATA CHANGES ................................... .........................................................8  
+2.1.3 Employment contract & PROBATIONARY PERIOD FOR NEW EMPLOYEES ..................8  
+2.2.1 WORKING HOURS ......................................................................................... ........................ 10  
+2.2.2 BREAK PERIOD .......................................................................................................... ............ 12  
+2.2.3 ANNUAL VACATION ............................................................... .............................................. 12  
+2.2.4 EMERGENCY LEAVE ....................................................................................................... ...... 13  
+2.2.5 BEREAVEMENT LEAVE ............................................. ............................................................ 13  
+2.2.6 MATERNITY LEAVE ....................................................................................................... ........ 13  
+2.2.7 PILGRIMAGE LEAVE .............................. ................................................................................ 13  
+2.2.8 MILITARY LEAVE ........................................................................................................ ........... 13  
+2.2.9 CHILDREN CARE LEAVE .... ................................................................................................... 14  
+2.2.10 SICK LEAVE ........................................................................................................... ................. 14  
+2.2.1 1 WOR KING ON OFFICIAL HOLIDAYS / WEEKENDS ......................................................... 14  
+Worked Holidays & Weekends Compensation .................................................................................. 14   
+2.2.12 ABSENCE .......... ..................................................................................................................... 15  
+ Herein some types of absence ................................................................................................ ......... . 15  
+2.2.13 WORK FROM HOME POLICY ................................................................................................ . 16  
+2.3.1 CORRECTIVE ACTION................................................................................................ ............... 17  
+2.3.2 END OF SERVICE .......................................................................................  ............................... 17  
+2.4.1 EMPLOYEMENT OF RELATIVES ............................................................ ................................. 19  
+2.4.2 EMPLOYEMENT OF FORMER EMPLOYEE ............................................................................ 19  
+
+--- Page 3 ---
+ 
+3  
+  2.4.3 INTERNAL MOVEMENTS ........................................................................... ............................... 20  
+3.1 PERFORMANCE PAY..................................................................................................... ............... 21  
+3.2 STAFF LOANS ................................................................ ........................................................24  
+LOAN REQUEST FORM .................................................................................................. ............. 25  
+3.3 Phone Policy ............................................. ................................................................................. 26  
+3.4 SALES COMMISSION ..................................................................... ........................................ 28  
+Plan Summary ...................... ............................................................................................................ 29  
+Plan Details .................................................. ................................................................................ .... 30  
+Targets Setting ............................................................................................................. ................... 35  
+Measures ......... ................................................................................ ................................................ 36  
+Payout .................................................................................................................... ......................... 37  
+Plan Definitions ................................. .............................................................................................. 39  
+Administration .............................................................. ................................................................... 41  
+4.1 Work place smoking policy ........................................................................................................ .. 42  
+4.2 Safety at Workplace policy ............. ................................................................................ ............ 43  
+4.3 Dress Code Policy ....................................................................................................... ................ 43  
+4.4 Workplace  Communication Policy .......................................................... ............................... 44  
+4.5 Workplace Etiquette Policy .............................................................................................. ....... 46  
+4.6 NON -DISCLOSURE/CONFIDENTIALITY POLICY ......................................... ................. 47  
+5.1 Purpose.................................................................................................................. .................... 49  
+5.2 Procedure ...................................................................... ............................................................ 49  
+5.3 General Policy ............................................................................................ ............................... 49  
+5.4 Health/Medical Insurance................ ........................................................................................... 50  
+5.5 Travel Allowance/Per -Diem .................................................. .................................................... 50  
+5.6 Air Fare .......... ............................................................................................................................ 50  
+5.7 Accommodation ............................. ................................................................................ ............ 50  
+
+--- Page 4 ---
+ 
+4  
+  5.8 Transportation .......................................................................................................... ................. 51  
+5.9 Other Reimbursable Expenses ............................................................ ........................................ 51  
+5.10 Expense Reporting and Reimbursement .............................................................................. ...... 52  
+Appendix A ...................................................................... ................................................................ 54  
+Accommodation.................................................................................. .............................................54 
+Appendix B.................................. ..................................................................  .... .................  ............56  
+Allowance/Per -Diem ....................................... ................................................................................. 56  
+6.0INT ERNATIONAL ASSIGNMENTS.......................................................................................... 57  
+6.1.1 OBJECTIVES .............................. ............................................................................................ ... 57  
+6.1.2 SCOPE / ELIGIBILITY ................................................................................................... ........... 57  
+6.1.3 PROCEDURE S .......................................................................................... ................................. 57  
+6.1.4 TRAVERL ALLOWANCE/PER -DIEM .................................................................................. 57  
+6.1.5 Mobile Allowance ........................................................................... ......................................... 58  
+         6.1.6 Attendance & Vacation ..................  .... ................ ................................................................... 58  
+6.1.7 Other Guidelines ..................................... ................................................................................ 58  
+6.2.1 OBJECTIVES .......................... ................................................................................................... 59  
+6.2.2 SCOPE / ELIGIBILIT Y ............................................................................................................. 59  
+6.2.3 PROCED URES ........................................................................................................................ .. 59  
+6.2.4 Other guidelines .....................................................................................................  .... ................ 59  
+7.0 TRAINING POLICY ................................................................................. ................................ 60  
+7.1.1 Management Team's Role ......................................................................................... ............... 60  
+7.1.2 Managers' Role ............................................................ ................  ............................................ 60  
+7.1.3 Learning & Development Department Role: ........................................... ................................. 60  
+7.1.4 HR Business Partner Role ................................ ......................................................................... 61  
+7.1.5 Employee’s Role ....................................................... ......................... ....................................... 61  
+7.2.1 General Regulations ...... ..................................................................  ......................................... 61  
+
+--- Page 5 ---
+ 
+5  
+  7.2.2 Eligibility ........................ ................................................................ ..................................... ...... 61  
+7.2.3 Approval Regulations ........................................................................... ...................................... 62  
+7.2.4 Procedure..................................................................................... ................  ............................... 62  
+7.2.5 Certifications & Exams ........................................................................ ....................................... 63  
+7.3.1 Internal Courses ................................... ...............................  .... .... ..............................................63  
+Regulations ................................................... ..............................  ......................................................... 64  
+7.3.2 Ex ternal Courses .....................................................................  ..................................................... 64  
+7.3.3 Certif ications & Exams ................................................................ .................... ............................. 64  
+7.4.1 Description ........................................................................................  .............. ..............................65  
+GUIDLINES ......................................................... ................................. ................................................. 65  
+8.1 POLICY OBJECTIVE ............................................... ....................................................................... 66  
+ 8.2  SCOPE/ELIGIBILITY . .............................................................................................................. 66  
+8.3 Tools used for each level ........................................................  .... ...... ....................... ................... ...... 66  
+8.4 PROCEDURE .....................................................................  .... .... ........................................................ 67  
+8.5 OTHER GENERAL GUIDELINES.............................................................. ........................................ 68  
+INTRODUCTION   
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- Page 6 ---
+ 
+6  
+  Dear LDC Employee,  
+  
+This Employee Handbook has been designed to serve as a quick reference for many i ssues 
+relating to your employment with LDC . It is not a contract, nor is it an invitation to contract.  
+In order to remain current, the Handbook treats most topics briefly and may provide links to the 
+Human Resource Policies and Procedures Manual. This Man ual is updated as official policies 
+change. The Human Resources Policies and  Procedures Manual is the authority in case of a 
+disparity between the Manual and the Employee Handbook.  
+It is important for you to be familiar with the information in this Handbo ok. Please review it 
+carefully. If you need to refer to the Handbook in the future, remember that the most recent 
+version will be available on the Intranet, where the links can also be used. In addition, your 
+Human Resources Department can provide assistan ce with questions relating to your 
+employment.  
+  
+  
+  
+Sincerely  
+  
+LDC Human  Resources Department  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+
+--- Page 7 ---
+ 
+7  
+  EMPLOYMENT POLICIES   
+  
+2.1 PERSONNEL POLICIES   
+  
+PURPOSE OF THE POLICY:   
+   
+Set standard policies and procedures, to assure equity of relationship between LDC and its employees, 
+facilitate understa nding of employees’ rights and obligations.  
+  2.1.1 PERSONNEL FILES    
+Employee personnel files in general include the following: [job  application, job description, résumé, 
+records of participation in training events, salary history, records of disciplina ry action, annual leaves, 
+action and documents related to employee performance reviews, hiring documents according to the 
+Egyptian labo r law such as:  
+1. Original academic degree certificate  
+2. Copy of qualifications certificates  
+3. Copy of experience certificate s  
+4. Labor Office Receipt  
+5. Police Blotter (in the name of ( LINK Datacenter ) 6. Original of military service certificate (males 
+only)  
+7. If previously employed:  
+ Copy of the Insurance clearance (form 6)  
+ Discharge Certificate  
+8. Copy of ID and passport  
+9. Six perso nal photos (size 4x6).  
+10. Original birth certificate  
+11. Social insurance number 12. Copy of updated CV 13. Form 111.  
+  
+Above documents must be provided by the new employee within maximum 15 days from the joining date 
+in order to sign the employment contract.  
+  
+Personnel files are the property of LDC, and access to the information is restricted. Management 
+personnel of LDC who have a legitimate reason to review the file are allowed to do so.  
+  
+Employees who wish to review their own file should contact the per sonnel department representative with 
+reasonable advance notice, the employee may review his/her personnel file in LDC and in the presence of 
+the personnel department representative.  
+  
+Employee should submit all the required documents by the Labor Law to the HR department on the first 
+day of hiring. In case that the employee submitted fake documents, information or certificates,  
+LDC has the right to terminate the employee’s contract immediately  
+  
+If the employee failed to provide any of the above documen ts during the first 15 days of his/her 
+employment, the company will suspend the salary until further notice.  
+
+--- Page 8 ---
+ 
+8  
+    
+In all cases, the above hiring documents should be completed maximum by the end of the probation 
+period. Employees who failed to provide any of their hiring documents will be terminated by the 
+company.  
+The following additional material should be added as required during the service of the employee:  
+  
+- Job application & CV.  
+- Employment contract -  Performance appraisal reports.  
+- Evidence of promot ions.  
+- Complimentary letters and memoranda.  
+- Salary and Bonus documentation.  
+- Change of benefits details.  
+- Letters relating to disciplinary measures.  
+- Documentation of different types of vacations.  
+- Updates of personal contact details and emergency contact s.  
+  
+2.1.2 PERSONNEL DATA CHANGES  
+  
+It is the responsibility of each employee to promptly notify LDC Human Resources Department of any 
+changes in personnel data such as:  
+  
+- Employee address.  
+- Telep hone numbers.  
+- Name and number of dependents.  
+- Individual s to be contacted in the event of an emergency.  
+- His military status in case of changes.  
+- Marital status.  
+  
+An employee’s personnel data should be accurate and available at all times.  
+  
+  
+2.1.3 EMPLOYMENT CONTRACT & PROBATIONARY PERIOD FOR NEW EMPLOYEES  
+  
+LDC employment contract is a renewable contract valid for one year, unless mentioned otherwise, which 
+includes a probation period for the first 3 -months, as per Egyptian Labor Law and is renewed 
+automatically for another year unless mentioned otherwise by any party (Company or employee) The 
+probationary period for regular full -time employees lasts up to [90 days] from date of hire. During this 
+time, employees have the opportunity to evalua te our company as a place to work and management has its 
+first opp ortunity to evaluate the employee. During this introductory period, LDC has the right to terminate 
+the employment contract without providing reasons.  
+  
+
+--- Page 9 ---
+ 
+9  
+  Upon satisfactory completion of the probationary period, a 90 -day performance review will be given for 
+the employee by his supervisor. All employees, regardless of classification or length of service, are 
+expected to meet and maintain company standards for  job performance and behavior.  
+  
+HR Department has to communicate the probation period evaluation for the new staff with the Group / 
+Division Heads and a comprehensive evaluation for the employee performance, profile has to be made by 
+the immediate superv isor and the department head after 90 days from date of hire and based on the 
+evaluation result LDC will take an action.   
+
+--- Page 10 ---
+ 
+10  
+  2.2 ATTENDANCE & LEAVES   
+  
+2.2.1 WORKING HOURS  
+  
+The standard workweek is at least 40 hours of work. The employee workweek is consid ered to begin on 
+Sunday through Thursday. Employees who work on a shift basis, their schedule is advise d on a 
+weekly/monthly basis by their Manager.  
+  
+ALL Employees are required to sign in & out through the Intranet.  
+It shall be done as follows:  
+- Employee logs in on the domain (where applicable).  
+- Employee opens up the portal.  
+- Employee pushes the SIGN in  button.  
+- Employee has signed in.  
+- Employee also is required to sign out from the system upon leaving the company.  
+- National Holidays are already considered in the system as 'days off'.  
+  
+The Company endorses a flexi -time system, which allows employees to  attend to work in different 
+starting times starting from 9:00 AM and until 11:00 AM. Employees can finish their wor king hours after 
+completing the normal 8 working hours and can leave their work starting from 5:00 PM and until 7:00 
+PM.  
+  
+On exceptional b asis, employees can start their work at 8:00 AM and finish at 4:00 PM provided that it 
+will not be contradicting with their working conditions, and they must get the approval of their direct 
+manager and the HR department first.  
+  
+In all ca ses, employees c annot start their working hours before 8:00 AM and not after 11:00 AM to 
+maintain the business continuity across the different departments.  
+  
+In order to allow our employees getting the maximum benefit from the flexi -time system, we do urg e all 
+the busine ss partners to organize meetings not before 11:00 AM and not after 4:00 PM.  
+  
+The Employees who have their job nature requires them to spend many of their working hours outside the 
+office will have different treatment and will agree on with their direct m anagers.  
+  
+In case of any employee failed to complete the monthly standard wor king hours, the system automatically 
+will accumulate the missing number of worked hours. Each 8 hours will be equivalent to 1 day deduction 
+from the employee’s annual leave bala nce.  
+  
+
+--- Page 11 ---
+ 
+11  
+  Pregnant employee has the right for 1 hour off / day starting the 6th m onth of her pregnancy till date of 
+delivery upon getting a medical report. This 1 hour should be agreed upon with the Direct Superior & the 
+HR to be fixed either the first hour or the last hour of the working day.  
+Female employee, who has kids younger tha n 2 years, has the right for 1 hour off / day for 2 years starting 
+from the delivery date. This 1 hour should be agreed upon with the Direct Superior & the HR to be fixed 
+either  the first hour or the last hour of the working day.  
+  
+LDC expects that every employee will be regular and punctual in attendance.  
+  
+An employee is considered as tardy if he or she fails to report to the assigned workplace, prepared to 
+work, at the sched uled time. This includes returning from breaks and lunch periods.  
+  
+HR Departm ent defines the punctuality standards for LDC operations through time attendance reports that 
+issued monthly and sent to division/department head.  
+  
+Employee's vacation deliver ed to HR (as per the rules) will be entered on the system to deactivate the aut o 
+mail.  
+  
+If you are unable to come to work on time, notify your supervisor before regular starting time. You are 
+responsible for speaking directly with your supervisor about y our absence. It is not acceptable to leave a 
+message on a supervisor’s voice ma il, in addition to send an SMS.  
+  
+The direct manager should reply to HR If this absence were of his/her previous knowledge or not. Direct 
+manager should also mention the reason  that justifies allowing the employee for the above discrepancy.  
+  
+After communicating your manger and getting the approval on this unplanned absence day, you supposed 
+to close the absence task which you will receive on the day after the absence day as (a nnual, or casual or 
+sick leave or outdoor work).  
+Pending attendance  task on employee’s action will be automatically closed as annual leave after 30 
+calendar days from the absence date.  
+  
+Pending attendance task on manager’s action will be automatically c losed as annual leave after 30 
+calendar days from the absence date i n case of the Outdoor closing otherwise it will be automatically 
+closed same of employee action.  
+  
+Excessive tardiness is grounds for corrective action as per labor law.  
+  
+If you become ill while at work or must leave the work for some other reason befor e the end of the 
+workday, be sure to inform your supervisor and supervisor should inform the HR department.  
+  
+It’s very important that all employees maintain punctual record of signing in  and signing out.  
+  
+If the employee failed to sign out upon leaving  the company, the system will automatically sign him/her 
+out.  
+
+--- Page 12 ---
+ 
+12  
+    
+The system will accumulate the number of automatically sign out quarterly, any employee will fail to sign 
+out 7 times per q uarter, the system automatically will deduct 1 day from the employee ’s annual leave 
+balance.  
+And each Automatic Sign Out time after the 7th time during the same quarter, will deduct one day from 
+your annual balance.  
+  
+2.2.2 BREAK PERIOD  
+  
+Employees are allowed half an hour break. Breaks are usually taken during lunch time between the hours 
+of 12:00 PM and 3:00 PM.  
+  
+All employees have to take this break period in order to ensure employees high productivity.  
+  
+The break period is part of t he paid work t ime. Employees are not allowed to change or delay the 
+scheduled break periods to alter the beginning or ending of a workday.  
+  
+Employees who do not adhere to the break timing will be subject to disciplinary action.  
+  
+2.2.3 ANNUAL VACATION  
+  
+LDC recogniz es that employees need a scheduled time away from normal work duties for their personal 
+life.  
+  
+LDC grants annual vacation with pay to regular full -time employees who meet the service requirements 
+as follows:  
+  
+- During the first year of full time employme nt, employee is entitled to twenty one (21) working 
+days off paid vacation; and shall not be due till  employee spends three (3) months in service.  
+- Trainees are eligible for 5 annual working days that could be consumed after completing six (6) 
+months with LDC.   
+- Those having more than ten (10) years social insurance (full time employment) or reach the age 
+50, each employee are entitled to thirty (30) working days off paid vacation.  
+- Each employee must consume at least 15 days of his/her annual balance provid ed, also each 
+employee should have 6 annual consecutive days each year.  
+- Annual leave should be reque sted on the designated form with the approval of direct superior and 
+forwarded to personnel department in advance (2 days before starting the annual leave) .  
+- The company reserves the right to reschedule the annual leaves at any time according to business 
+and operational requirements  
+- In case of unfavorable reasons an employee does not spend his full leave entitlement during the 
+course of the year, any leave balances may be carried over up to 31st of March of the following 
+year.  
+
+--- Page 13 ---
+ 
+13  
+  - Any employee, who takes a va cation without informing his direct manager with a proper pre - 
+notice period, will be considered absent & will be subject to a disciplinary action as per t he 
+Egyptian labor law unless the vacation was an emergency leave.  
+- Job requirements will always have precedent over vacation schedules.  
+- Department Head decision will be considered in the event of conflict of vacation schedules arise.  
+- Extra leave days exc eeding the annual leave balance will be deducted from the salary.  
+- No unpaid leaves are allowed.  
+  
+  
+LDC encourages all employees to make the most of their vacation time. Regular breaks from daily work 
+make everyone more productive.  
+  
+2.2.4 EMERGENCY LEA VE  
+  
+Employees are entitled to casual leave of six (6) working days per year according to their eligible annual 
+leave balance, and such casual leaves shall equally reduce the annual leave by the same amount. More 
+than these mention days will be considered  as absence days. The direct manager can approve emergency 
+leave followed by annual leave.  
+  
+If you are unable to report for work for any reason, notify your supervisor before regular starting time; 
+this will allow the management for temporary coverage of  your duties, and helps other employees to 
+continue work in your absence. You are responsible for speaking directly with your supervisor about your 
+absence; it is not acceptable to leave a message on a supervisor’s voice mail or to send SMS.  
+  
+2.2.5 BEREA VEMENT LEAVE  
+  
+LDC recognizes that employees personal life is important, therefore LDC policy  allows the employee to 
+take up to three (3) calendar days leave in case of death of any of his/her first degree relatives, (first 
+degree relatives are defined as  husband, wife, father, mother, brother, sister, son or daughter). Such a 
+leave can be repeate d during the year and it’s not deducted from the annual leave.  
+  
+2.2.6 MATERNITY LEAVE  
+  
+Pregnant Employees who spent more than 10 months with LDC are entitled to a maternity leave with 
+100% of their normal pay for a period of not more than ninety - (90) calendar days. Such leave is enjoyed 
+only three (3) times by the employee during the period of service. However, the employee must not 
+continue her work before th e 45 days next to the delivery date.  
+  
+2.2.7 PILGRIMAGE LEAVE  
+  
+
+--- Page 14 ---
+ 
+14  
+  LDC provides 30 calendar days fully paid for all of them. Such leave is enjoyed only once by the 
+employee during the period of service provided that the employee continued 5 years with LDC. This is 
+over the employee annual leave days.  
+  
+2.2.8 MILITARY LEAVE  
+  
+Employees will be granted time off to serve on a military leave with full pay. However, all regular 
+employees will be kept on the active payroll until their civic duties have been comp leted. A copy of the 
+jury duty summons and all other associated paperw ork are required for the personnel file before starting 
+the leave and final report is required before resuming work in order to approve the leave period.  
+  
+2.2.9 CHILDREN CARE LEAVE  
+  
+Female employees with children are entitled to a two years leave witho ut payment. Such leave is enjoyed 
+only 2 times by the employee during the period of service. The employee is eligible to this benefit 
+provided that she spent not less than 10 months serv ice within LDC.   
+  
+2.2.10 SICK LEAVE  
+  
+Employees, who become aware of  any health -related issue, including pregnancy, should notify their 
+supervisor and Human Resources representative of health status. This policy has been instituted strictly to 
+protect th e employee.  
+  
+Employees with proof of sickness are allowed to be absent from work with number of sick leave days 
+equivalent to 12 calendar months every 3 years of service starting from the employee’s hiring date. These 
+months are affecting the employee’s monthly salary as follows; only in case of the unavailability of 
+annual leave balance:  
+  
+• 1 month with 100% salary.  
+• 8 months with 75% salary. 
+   3 months unpaid.  
+Approval can be done by direct manager for sick leaves up to 2 days and does not require a medical report 
+or certificate. Sick leaves more than 2 days must be approved through LDC doctor and the employee 
+shoul d submit a medical report or certificate clarify the reason of his/her sickness otherwise will be 
+considered absent days.  
+  
+2.2.11 WORKING ON OFFICIAL HO LIDAYS / WEEKENDS  
+  
+As per the labor law, employees who worked on their weekend (resting days) will b e compensated by 
+vacation day replacement in addition to one day salary compensation per worked day.  
+  
+
+--- Page 15 ---
+ 
+15  
+  In case of worked employees on official holidays (announced by the government), they will be 
+compensated by 2 days salary per worked day.  
+  
+ 
+  
+In un -usual circumstances and due to urgent business needs, work will require some employees to be 
+working over their weekends or during official holidays.  
+  
+In the occurrence of these circumstances, and to get these days compensated by the company, emplo yee 
+must open a compensation request through the LDC Intra : 
+http://otvportal/LDC/Compensation/CompensationRequest.aspx   
+- Request will be sent to the direct manager to be approved then reach the HR department.  
+- The HR department will check that the request is match ing the compensation criteria or not and 
+will compensate these days as follows:  
+  
+• Weekends will be compensated b y 1 day salary + 1 day vacation  
+• Official holiday will be compensated by 2 days salary with No vacation  
+  
+- Notification will be sent to the emp loyee once it’s closed from the HR side whatever with the 
+Acceptance or Rejection.  
+- In case Rejection, HR departm ent will make sure to provide the employee with the reason of the 
+rejection.  
+  
+POLICY GUIDELINES:   
+  
+- No compensation for managers and above.  
+- No compensation for commission based employees.  
+- No compensation for the training days.  
+- No compensation for any bridge day has been given from the company.  
+- Compensation will be done only when employee have completed the minimum of 168 working 
+hours at t he end of the month.  
+- Maintain accurate and comple te sign in/out record during the month  
+- Employee must complete 4 worked hours at least to get this day compensated  
+  
+2.2.12 ABSENCE  
+  
+A staff employee is considered absent if he or she is not present for work as scheduled, regardless of 
+cause.  
+  
+ 
+  
+ 
+  
+ 
+  
+
+--- Page 16 ---
+ 
+16  
+  Excessive absence. Unexcused absences for ten (10) excessive days are cause for corrective action and 
+result in termination as per the labor law. First termination warning will be sent after the completing 10 
+excessive d ays.  
+  
+Consecutive absence. Unexcused absences for five (5) days consecutive days are cause for corrective  
+action and result in termination as per the labor law. First termination warning will be sent after the 
+completing 5 consecutive days.  
+  
+2.2.13 WORK FROM HOME POLICY  
+    
+INTRODUCTION   
+  
+LDC aims to provide flexible and safe working conditions for LDC employees in a way to maximize the 
+productivity and minimize interruption of business in unusual circumstances  
+  
+Work from home is not a b usiness tool not a benefit and should be used on urg ency needs and 
+circumstances as evaluated and decided by LDC Management  
+  
+SCOPE   
+  
+The policy covers all LDC employees excluding ineligible staff according to the management of each 
+department/subsidiary   
+  
+DEFINITIONS   
+  
+Ineligible Staff: All employees w hose job nature is not included in this option such as: Shift based 
+employees, employees who are using systems that cannot be operated from home in addition to jobs that 
+cannot be operated from home accor ding to the decision of each department/subsidiary d ecision  
+  
+POLICY DESCRIPTION   
+  
+LDC employees operating from the office can work from their homes according to their eligibility only 
+when the company management decided and announced by Human Resources Department. Governing 
+rules and the urgency decided by each Managing Director.  
+  
+The judgment of performance while working from home will be the department manager’s call that bears 
+the full responsibility for monitoring the use of such tool  
+  
+PREDEFINED  CONDITIONS   
+  
+• Employee must be reachable by phone and other normal online business t ools such as email  
+• Can perform full job responsibilities  
+
+--- Page 17 ---
+ 
+17  
+  • Can be called to attend to main workplace if needed and if possible  
+• The department manager to decide on the emp loyees available on the workplace “If Possible”   
+LIMITATION   
+Any disturbance to work flow or affecting the operations is a valid reason to cancel the work from home  
+2.3 Corrective Action & End of Service   
+  
+2.3.1 CORRECTIVE ACTION  
+  
+LDC holds each of its  employees to certain work rules and standards of conduct. When an employee 
+deviates from these rules and standards, LDC expects the employee’s supervisor to take corrective action.  
+  
+Corrective action at LDC is progressive. That is, the action taken in r esponse to a rule infraction or 
+violation of standards typically follows a pattern increasing in seriousness until the infraction or violation 
+is corrected.  
+  
+The usual sequence of corrective actions includes a verbal warning, a written w arning, salary de duction 
+and finally end of the employment contract as per labor law. In deciding which initial corrective action 
+would be appropriate, a Department Head in cooperation with the HR Department will consider the 
+seriousness of the infraction,  the circumstance s surrounding the matter, and the employee’s previous 
+record. Though committed to a progressive approach to corrective action, LDC considers certain rule 
+infractions and violations of standards as grounds for immediate termination of emplo yment. These 
+include but are not limited to:  
+  
+- Theft in any form.  
+- Fraud.  
+- Unexcused absence.  
+- Vandalism or destruction of LDC property .  
+- Untruthfulness about personal work history.  
+- Act of violence.  
+- Insults or threats towards anyone responsible for discipline.  
+  
+  
+2.3.2 END OF SERVICE  
+  
+Termination of employment is an inevitable part of personnel activity within LDC, and many of the 
+reasons for termination are routine. Below are a few examples of so me of the most common 
+circumstances under which employment is terminate d:  
+  
+- Resignation – voluntary employment termination initiated by an employee.  
+- Termination – involuntary employment termination initiated by LDC and as per the law.  
+
+--- Page 18 ---
+ 
+18  
+  - Layoff – involuntary employment termination initiated by LDC for non -disciplinary reasons  and 
+as per the law.  
+- Death.  
+- Retirement.  
+When an employee intends to end his/h er employment with LDC , he/she shall give at least one (1) month 
+written pre notice in case that he/she didn’t complete 10 years with any of LDC subsidiaries and three (3) 
+months if more than 10 years.  
+  
+Any employee who terminates employment with LDC shall return all files, records, keys, and any other 
+materials that are property of LDC. No final settlement of an employee’s pay will be made until all items 
+are returned in app ropriate condition. The cost of replacing non -returned items will be deduc ted from the 
+employee’s final paycheck. Furthermore, any outstanding financial obligations owed to LDC will also be 
+deducted from the employee’s final check.  
+  
+Employee’s benefits w ill be affected by employment termination in the following manner. All acc rued 
+vested benefits that are due and payable at termination will be paid.  
+  
+2.3.2.1 CHECKLIST FOR LEAVERS   
+   
+When an employee leaves the service of LDC, there are administrative issues that need to be addressed. 
+The HR department is responsible for ensuring that the following list of actions is accomplished.  
+  
+- Resigned employee should fill the resignation form stating the last working date and reason for 
+leaving and get the direc t manager’s approval. Last working date should be after at least one 
+month from the resignation date.  
+- The direct manager should immediately send an e mail to LDC and the recruitment team of each 
+company with the employee’s name an d the final last working date  
+- The payroll department will hold the employee dues and issue the automated resignation request 
+to the concerned parties.  
+- Resigned employee should then come to the HR department to sign the social insurance related 
+documents and start working on the exit check list to make sure that all concerned parties have 
+been notified and confirmed their actions.  
+- Medical insurance cards should be delivered to the concerned HR person in order to delete the 
+employee and his /her dependents  where appropriate, from the medical insurance and group life 
+cover.  
+- Parking card and access cards should be delivered to the concerned HR person, and then HR 
+should deliver it to MIS & facilities.  
+- After completing the exit check list, the employee can r eceive the recommendation  letter and the 
+hiring documents from the file.  
+ 
+ 
+ 
+ 
+ 
+
+
+--- Page 19 ---
+ 
+19  
+  2.4 EMPLOYMENT OF RELATIVES & FORMER EMPLOYEES   
+  
+2.4.1 EMPLOYEMENT OF RELATIVES  
+  
+LDC seeks to eliminate actual or apparent conflicts of interest which may result from having first and/or 
+second degree rel atives - i.e. legal husband or wife, mother, father, brother, sister, son, daughter, nephew, 
+niece, grandson, grand -daughter, aunt and un cle - work in the same administrative hierarchy.  
+  
+For the purposes of this policy, the below process must be implemen ted when hiring a new employee  
+  
+- Job applicants should mention in the job application their relatives working in LDC   
+- LDC will not allow  the hiring of your first and second degree relatives within the same division. 
+If the relation established after the e mployment, one of them should transfer to another 
+department, and the company then will decide which one will be transferred and to which  
+department.  
+- Hiring of other relative degrees rather than the first and the second within the same department 
+can be a pproved, only if they will not report directly or indirectly to each other.  
+- Hiring of any relative should be subject to the approval of the HR department, hiring manager, 
+the manager of the candidate’s relative, and the manager of the candidate him/hersel f. HR 
+department should highlight the case before giving the candidate any promises.  
+- At any point of time and due to business circumstan ces that may occur, LDC can see that there is 
+a potential conflict of interest that may result because of the newly hir ing or already existing of 
+any relatives. In such case, LDC has the right to apply the proper corrective action to avoid this 
+conflict.  
+   
+2.4.2 EMPLOYEMENT OF FORMER EMPLOYEE  
+  
+The rehire of employees is contingent on a positive work record. A former em ployee whose employment 
+was involuntarily terminated for mis conduct, or for violating LDC ’ rules/policies, or who resigned in lieu 
+of termination for such reasons is ineligible for re -employment with the company.  
+  
+The following is a list of prerequisite s that must be met to be eligible for rehire:  
+  
+- Successful completion of the original probationary period. -  Appropriate notice of 
+resignation.  
+- Participation in an exit interview.  
+- Completion of exit release form.  
+- Appropriate handover.  
+- Performance eva luations reflecting that the employee’s performance consistently met the 
+requirements of the job.  
+  
+ 
+
+--- Page 20 ---
+ 
+20  
+  PROCEDURES   
+ 
+- A former employee who is seeking re -employment must indicate his/her prior employment with  
+LDC on the job application. Failure to do so will result in ineligibility for reemployment 
+regardless of the reason for separation.  
+- All applications will be subject to a Human Resources search of LDC employment records to 
+determine previous employment status,  reason for termination of employment and elig ibility for 
+rehire.  
+- Applicants ineligible for rehire as per this policy will be notified by Human Resources and will 
+not be referred to fill vacancies.  
+- Rehiring process will be subject only to availability of  vacancies and the qualifications of all the 
+candidates applying for the vacancy including the former employee.  
+- Former Applicants should pass by the same recruitment process of the other applicants.  
+  
+  
+2.4.3 INTERNAL MOVEMENTS  
+  
+Vacant positions should  be, when possible, fulfilled with suitably qu alified internal candidates, as part of 
+LDC commitment to offer career development opportunities to its employees. The internal movement 
+process is:  
+  
+- Job Posting: Job posting is announced to LDC staff.  
+- Candidates Applications: Interested employees -whom  spent more than 1 year in their current 
+position -, can apply for such vacant position.  
+- Applications Filtration: Both of the HR  and the new manager can approve/reject the application 
+based on the candidate’s profile against job requirements.  
+Note : Previo us evaluation of employee will be taken into consideration in the movement 
+decision.  
+- Selection Process: The selection process w ill be based on the interviews, technical tests and/or 
+assessment that the candidate will pass through, to be accepted in the ne w position.  
+- Notice Period: Both of the old and new managers should agree on the notice period and 
+communicate it with the emplo yee. The notice period should not be less than 1 month to maintain 
+proper and documented handover, and it may be extended up to 2 months - maximum - according 
+to urgent business needs in the current position.  
+- Movement: HR coordinates -all the movement’s pr eparations and logistics - with MIS and 
+Facilities teams.  
+  
+In certain conditions, internal movements may include salary adjustm ent or allowances change –
+based on the new job’s level and its field – but it’s not mandatory.  
+ 
+ 
+ 
+ 
+
+--- Page 21 ---
+ 
+21  
+  COMPENSATION & BENEFITS   
+  
+  
+PURPOSE OF THE POLICY:   
+   
+To improve current employees’ retention capabilities, attract the best qualified people and help achievi ng 
+both the organization and individual objectives  
+  
+3.1 PERFORMANCE PAY  
+  
+OBJECTIVE   
+  
+  
+  
+To creates and develop a performance driven reward strategy that includes a variable performance payout 
+to employees according to their performance  
+  
+ELIGIBILIT Y  
+  
+  
+  
+Performance based LDC full time employees hired before October 1st.  
+LINK TO PERFORMANCE   
+ 
+  
+Performance based employees have a target of annual variable performance payout that is a multiplier of 
+their monthly basic salary  
+  
+Average variable p erformance payout is based on the company performance in the year and the financial 
+results  
+  
+Actual pa yout are based on employee’s performance against Individual Objectives at the end of the 
+performance year  
+  
+LDC performance year usually starts from Ja nuary and until end of December  
+PERFORMANCE RATING   
+ 
+  
+
+--- Page 22 ---
+ 
+22  
+  Following the completion of the performance year, each employee will be given a performance rating. 
+The performance rating will be allocated to each employee in accordance with performance review 
+process  
+The following abbreviations are used to refer to th e performance rating given to the employee  
+  
+- 4  - Exceeds  
+- 3  - Fully Meet  
+- 2  - Mostly Meet  
+- 1  - Below Requirements  
+  
+  
+The performance rating will be the factors used to calculate the variable p ayout that each employee will 
+be eligible to receive for the scheme year.  
+  
+TARGET OF VARIABLE PERFORMANCE PAYOUT   
+ 
+  
+  
+  
+Variable pay target is based on performance rating score at year end, Base Salary (as of December 31st) 
+and Time in job. Payout pote ntial is from 0 month to 3 months basic salary  
+  
+LDC may review and amend the scheme at any time and this will normally take place on an annual basis. 
+Employees will be notif ied of any changes to the rules of the scheme as and when they occur.  
+  
+The Targ et of variable performance payout will be as follows for each performance rating:  
+  
+Performance Rating Score  Variable Pay Target  
+Above 105%  3 Months  
+101% - 105%  2.5 Month  
+90% - 100%  2 Month  
+75% - 89%  1 Month  
+50% - 74%  0 Month  
+  
+  
+PAYOUT RULES   
+   
+
+--- Page 23 ---
+ 
+23  
+  - Following the mid -year performance review, all employees will receive part of their Annual 
+performance payout with July’s salary. The amount of this payment is equivalent to 1 month of 
+the monthly salary that is granted to all employees. Payment  of this pa rt will be with July’s 
+salary.  
+- To maintain the credibility of the system, managers must raise a red flag to stop the mid -year 
+payment for employees who are facing severe difficulties in their performance. The HR 
+department will following up wit h managers on the implementation of this rule  
+- At the year end, and based on the final performance rating, eligible employees will receive their 
+year-end performance payout ranging between 0 month and up to 2 months of the monthly salary. 
+Payment of this p art will be  with March’s salary of the following performance year  
+- Red flagged employees will receive their performance variable payout, only, if their performance 
+has been improved, and was not rated as “Below Expectations”  
+- No extra payments will be made  for “Below  Expectations” employees  
+- Employees who joined the company between January 1st and March 31st will be eligible to their 
+variable performance payout full amount according to their performance  
+- Employees who joined the company between April 1st an d September  30th will receive their 
+performance variable payout at year -end prorated on the duration stayed in the company within 
+the performance year. No mid -year payment for those employees  
+- No performance variable payout for employees who joined the com pany starti ng October 1st.  
+- No performance variable payout for resigning employees who left the company during the 
+performance year except for retiring staff. Retiring staff will be eligible for variable performance 
+payout subject to their performance rati ng during t he year.  
+- In case of salary changes occurred for an employee during the performance year, performance 
+bonus will be paid based on the prorated salaries amounts during the same performance year  
+- Payments will be paid after deducting applicable ta xes  
+- In the  event of an employee being absent from work due to paid maternity leave, variable 
+performance payout will be based on the performance rating  
+- In the event of an employee will be on unpaid leave, variable performance payout will be pro - 
+rated. T he employee  will be entitled to the proportion of bonus payment which equals to the 
+proportion of the performance year that the employee worked  
+- Part time staff are not eligible for variable performance payout  
+- Employees on long term sick leaves will recei ve the vari able performance payout according to 
+their performance rating during the performance year.  
+- Employees were absent from work for any other types of leaves, will receive their variable 
+performance payout according to their performance rating.  
+3.2 STAFF LOAN S  
+  
+  
+PURPOSE OF THE BENEFIT:   
+   
+LDC operates a flexible loan scheme to the employees upon their request, when there is a serious need or 
+where an emergency relief is required due to a circumstance that could not have been foreseen by the 
+employee.  
+  
+
+--- Page 24 ---
+ 
+24  
+  Applications must be made in writing on t he loan application form (see attached), signed and then sent to 
+the H.R. department for approval.  
+  
+ELIGIBILITY   
+   
+All employees exceeded 1 year of employment 
+APPROVAL OF THE BENEFIT   
+ 
+- Human Resources  Department.  
+- Finance Department.  
+  
+GENERAL RULES   
+   
+- LDC offers loans for the employees after completing 1 year of employment, company loans for 
+employees are not related to specific reasons and all loans are interest free.  
+- Staff loans will have an ann ual budget tha t may differ from year to another. CFO will advise 
+budget availability upon the approval of new loans’ requests  
+- Loans must not exceed 2 months from the employee’s gross salary with a maximum of 15,000 
+EGP  
+- Loan amount has to be repaid within  6 months maximum.  
+- Employees can apply for a new loan after completing 1 year from the previous loan’s first 
+installment date.   
+- In case of termination, the employee will not be released from LDC unless the full remaining 
+amount is paid during the final se ttlement with LDC .  
+- HR & Finance Departments must approve the loan request  
+- Under any circumstances, LDC management has the rig ht to reject any loan request.  
+  
+LOAN  REQUEST FORM  
+  
+  
+ Name: --------------------------------------------------  Title: --------------------------------------------------   
+  
+ Hiring Date: ----------  / ----------  / ----------   Subsidiary: -----------------------------------------   
+  
+Department: -----------------------------------------   
+
+--- Page 25 ---
+ 
+25  
+    
+THIS PART TO BE COMPLETED BY THE EMPLOYEE :  
+  
+• Is it the first time to get a Loan from LDC ?  
+  
+ 
+YES NO  
+  
+If the answer is NO, When was the last Loan Date? ----------  / ----------  / ----------   
+  
+• What is the needed Loan Amount? -------------------------------------   
+  
+• What is the Loan’s Duration (Max 6 Months)? ------------------------   
+  
+I promise to pay back the Value Received ----------------------------  Egyptian Pounds, In the Number  
+  
+of ---------------  Equal Monthly Payments of, -------------------------  Egyptian Pounds,  
+  
+ Beginning from ----------  / 20-----  , Until paid full in ----------  / 20 -- --.  
+  
+• In case of resigning from the company I am committed to pay back the full remaini ng amount of 
+the Loan before leaving the company and I agree that LDC deduct the remaining amount from 
+my fi nal dues.  
+  
+APPROVALS:   
+  
+EMPLOYEE’S SIGNITURE:  
+  DATE:  
+PAYROLL APPROVAL:  
+  DATE:  
+HR APPROVAL:  
+  DATE:  
+FINANCE APPROVAL:  DATE:  
+  
+  
+NOTE:  
+• THIS ORIGINAL FORM TO BE KEPT BY THE FINANCE DEPARTMENT.  
+• COPY OF THE FORM TO BE KEPT BY THE HR DEPARTMEN T.  
+ 
+ إقـــــــــــــــــــــرار  
+  
+  انه في يوم ..................................................... الموافق .......... / .......... / .......... أقر أنا 
+..................................... 
+
+--- Page 26 ---
+ 
+26  
+    
+الموظف بشركة                                              بأني قد تسلمت مبلغ و   
+قدره ......................  
+  
+ ) فقط                                                                               جنيها مصريا ال غير ( ، علي  
+ 
+سبيل األمانة من خزانة شركة               ، و أتعهد بموجب 
+هذا اإليصال برد كامل  
+ 
+المبلغ المشار اليه أعاله في  موعد أ قصاه            / .......... / .......... و 
+فى حالة إنهاء التعاقد مع   
+ الشركة  قبل هذا التاريخ أتعهد برد المبلغ كامال قبل نهاية اخر يوم عمل لى بالشركة.  
+  
+ المقـر بمـا فيـه  
+  السم / .............................................................................  
+  التوقيع /  ........................................................................... 
+  الرقم القومى / .................................................................... 
+  التاريخ / ...........................................................................  
+  
+  
+  
+ المرفقات:    
+  
+• صورة بطاقة الرقم القومى  
+• صورة كارنيه الشركة  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.3 PHONE POLICY  
+ 
+PURPOSE OF THE BENEFIT   
+   
+  
+LDC has developed this policy for its valued employees to enjoy the benefit of Mobile phone l ines’ 
+services  
+  
+
+--- Page 27 ---
+ 
+27  
+  LDC Mobile lines are allocated to employees to cover only their business needs for mobile communications. 
+Services charges for these lines are pa id to employees upon defined category eligibility and ceilings. HR 
+department can communicate  to employees their ceilings  
+  
+MOBILE LINE PROCEDURES   
+   
+  
+- Employee will use LDC intranet to know more information about our offer with Mobinil  
+- Employee will t hen submit a request for a new line mentioning the bucket  
+- The HR department will proceed wit h the new line and inform the employee when ready  
+- Itemized bill will be published on the intra on a monthly basis  
+- Amounts exceeds the allowance amount will be deducted from the salary  INTERNATIONAL 
+& ROAMING   
+ 
+  
+• International & Roaming are specially all ocated to those employees who are travelling for business need  
+for short missions up to 5 days. Such calls will be normally covered by the allocated mobile allowance of the  
+employee.  
+• For who are  travelling for a period over 5 days, the employee should bu y a prepaid local line for 
+the  country he/she is travelling to for an amount per week up to a  maximum of 50 $.  
+• The employee must provide a receipt to refund the local prepaid line expenses according to the 
+mentioned  
+limits  
+• No international & roaming ca lls will be refunded on the employ ee’s local line in this case  
+  
+IN CASE OF MAKING INTERNATIONAL CALLS FROM EGYPT   
+   
+- Each employee has to  access his/her own itemized bill on the intra and review the international 
+calls if any and highlight the business calls  
+- Send the highlighted business calls to direct manager for review and approval  
+- Department manager should review the international cal ls of his/her department and approve 
+these calls  
+- Upon the department manager’s approval; he/she should then send th e approved international 
+calls to the finance department  
+- Finance department will properly allocate the international calls cost and manage to refund it to 
+each employee  
+- The company will refund only the approved calls by the department manager. Extra amou nts will 
+be deducted directly from the employee’s monthly salary  
+- No data / GPRS charges will be refunded while on roaming  
+  
+  
+
+--- Page 28 ---
+ 
+28  
+  3.4 SALES CO MMISSION  
+  
+PURPOSE   
+   
+LDC 2011 Commission Plan (the "Plan") is established to direct the Participants to achieve goals assigned 
+by the company. The base salary and incentive outlined in this plan is intended to reward the Participant 
+with total cash compensation that is equal to or  above what is paid for similar positions by similar 
+companies upon achievement of the expected level of performance. The plan is also designed to provide 
+exceptional earnings opportunities for outstanding performance. In addition, the goal of this plan is  to 
+reward you for meeting and exceeding your assigned quotas, goals and objectives.  
+  
+ELIGIBILITY   
+   
+Only those employees who are classified as a participant in a Plan and who have signed this Plan form are 
+eligible to participate in the Plan. All participants must comply with all terms and conditions outlined in 
+the plan and with genera l employment pract ices and policies of the company. They are also responsible 
+for selling or supporting only authorized Line of Business and services in their assigned territory.  
+  
+EFFECTIVE DATE   
+   
+This plan is effective and applies to all contracts en tered starting fro m April 1st, 2011, and supersedes all 
+plans and terms previously in effect.  
+Sales Representative   
+  
+FY 2011  
+  
+Name: Sample Sales Rep  
+Manager: Sample Manager  
+Territory: Sample Territory  
+  
+PLAN SUMMARY  
+  
+Line of Business and service s ales  
+GOALS   
+ 
+  
+  
+  
+Objectives    
+Q1    
+Q2    
+Q3    
+Q4    
+Total  
+
+--- Page 29 ---
+ 
+29  
+    
+Line of  
+Business 1            
+Line of  
+Business 2            
+Line of  
+Business 3            
+  
+Line of  
+Business 4            
+  
+ 
+  
+SALES INCENTIVE ELEMENTS   
+   
+  
+  
+  
+Total Package     
+Accelerators   
+  
+Basic    
+Commission    
+0 – 84%    
+85 – 100 %    
+101% - 110%    
+Above 115%  
+  
+70%    
+30%   0    
+Achievement * 
+100%    
+Achievement *  
+Achievement    
+Achievement * 
+115%  
+PLAN DETAILS  
+  
+  
+COMMISSION   
+   
+Commission is variable pay tied to the achievements for the below mentioned factors separately; the 
+below table shows each factor’s weight for each role, for each subsidiary:  
+  
+  
+Company    
+Role    
+Sales Quota    
+Revenue Quota    
+Product Mix    
+Payments  
+  
+  
+  
+Connect Ads    
+Account Ma nager    
+-    
+70%    
+30%    
+-  
+  
+Senior Account Manager    
+-    
+70%    
+30%    
+-  
+  
+Sales Manager    
+-    
+49%    
+21%    
+30%  
+
+--- Page 30 ---
+ 
+30  
+    
+Sales Head    
+-    
+56%    
+24%    
+20%  
+  
+  
+LinkDev    
+Account Manager    
+42%    
+20%    
+18%    
+20%  
+  
+Senior Account Manage r    
+42%    
+20%    
+18%    
+20%  
+  
+Sales Manager    
+21%    
+40%    
+9%    
+30%  
+  
+
+--- Page 31 ---
+ 
+31  
+  The below Flow Chart explains the sales commission plan for the different roles for Connect Ads and 
+LinkDev:  
+  
+CONNECTADS:   
+ 
+
+
+--- Page 32 ---
+ 
+32  
+   
+   
+
+
+--- Page 33 ---
+ 
+33  
+   
+   
+
+
+--- Page 34 ---
+ 
+34  
+  LINKDEV:   
+ 
+
+
+--- Page 35 ---
+ 
+35  
+   
+  
+  
+Targets Setting  
+  
+The Target for each indicator will be set as the following:  
+  
+- Sales: by assigning a percentage of the annual quota to each employee  
+- Revenue: generated by each sale in specific dates based on the contract terms.  
+- Product Mix: by assigning a certain weight  for each line of business. It should be determined 
+based on the CEO and commercial head and the Finance team  
+- Payments: will be done based on the revenue dates, and based on the grace period mentioned in 
+the contract terms and confirmed from the collectio n department.  
+Measures  
+    
+The achievement will be calculated based on the up mentioned KPIs as the following:  
+  
+1- Sales Quota achievement:  
+  
+  
+Incentive    
+Sales 
+goal/ Q    
+Actual Sales    
+Product  
+Accelerator    
+Total Sales    
+Achievement    
+Amount Paid  
+
+
+--- Page 36 ---
+ 
+36  
+  Line of  
+Business 1    
+XX  Actual Sales 
+achieved    
+XX %  Actual Sales * 
+Product Acc.    
+Total Sales 
+(Line of 
+business 1 + 2) / 
+Total Sales  
+Goal    
+Achievement *  
+Accelerator *  
+Sales Quota  
+Weight  Line of  
+Business 2    
+XX  Actual Sales 
+achieved    
+XX %  Actual Sales * 
+Product Acc.  
+  
+2- Revenue Quota achievement  
+  
+  
+Incentive  Revenue 
+goal/ Q  Actual 
+Revenue  Product 
+Accelerator    
+Total Revenue    
+Achievement    
+Amount Paid  
+  
+Line of  
+Business 1    
+  
+XX    
+Actual 
+revenue 
+achieved    
+  
+XX %    
+Actual  
+Revenue *  
+Product Acc.    
+  
+Total Revenue  
+(Line of business  
+1 + 2) / Total  
+Revenue Goal    
+  
+Achievement *  
+Accelerator *  
+Revenue Quota  
+Weight    
+Line of  
+Business 2    
+  
+XX    
+Actual 
+revenue 
+achieved    
+  
+XX %    
+Actual  
+Revenue *  
+Product Acc .  
+  
+3- Product Mix  
+  
+  
+Incentive    
+Goal/ Q    
+Weight %  Actual  
+Amount    
+Achievement  Weighted 
+Achievement    
+Amount Paid  
+  
+Line of  
+Business  
+1    
+  
+XX    
+  
+XX%    
+Total  
+Revenue or  
+Sales    
+Total  
+Achievement  
+Vs. Target    
+Achievement  
+* Weight    
+  
+Weighted  
+achievement (Line of 
+Business 1 + 2) *  
+Product Mix Weight    
+Line of  
+Business  
+2    
+  
+XX    
+  
+XX%    
+Total  
+Revenue or  
+Sales    
+Total  
+Achievement  
+Vs. Target    
+Achievement  
+* Weight  
+  
+  
+a. The Product Mix factor will be applied to the S ales quota factor for LinkDev  
+b. The Product Mix factor will be applied to the Revenue Quota factor for Connect Ads  
+  
+4- Payments  
+  
+  
+  
+Incentive    
+Payments 
+goal/ Q    
+  
+Achievement    
+Current Q  
+Commission      
+  
+Amount P aid  
+
+--- Page 37 ---
+ 
+37  
+  Commission 
+due from 
+previous Qs  
+  
+  
+Payments    
+  
+XX    
+Actual  
+Payments Vs.  
+Due payments    
+Achievement *  
+Payments Weight    
+  
+XX    
+Current Q Commission + 
+Commission due from 
+previous Qs  
+  
+  
+a. If the customer did not pay the due invoice on time, the collection team will post pone the required 
+collected amount to the next quarter, i.e. the due commission related to this payment will be 
+postponed till the company collects it  
+   
+Payout  
+  
+The co mmission amount will be paid during the next Q  
+  
+  
+Amount paid based on    
+Commissio n payout timing  
+  
+Sales Achievement    
+1 Month after the Q  
+  
+Revenue Recognition    
+1 Month after the Q  
+  
+Product Mix    
+1 Month after the Q  
+  
+Payments    
+1 Month after the Q  
+The below workflow will be followed after each Q in order to release th e commission amount for the 
+sales team on time  
+  
+  
+
+--- Page 38 ---
+ 
+38  
+   
+PLAN DEFINITIONS  
+  
+  
+ACCELERATOR   
+   
+An accelerator increases payment for attainment over 100%. Commission rates and quota rates move to 
+an accelerated rate when the participant over achieves the quot a.  
+  
+ACHIEVEMENTS BELOW 85%   
+   
+If the Sales Rep achieved less than 85% of his quarterly quota, he will not be eligible for commission. 
+And if the Sales Rep did not achieve his quarterly quota for 2 quarters respectively, he will be subject to 
+terminatio n  
+  
+SPECIAL ACCELERATOR   
+   
+This accelerator will be assigned by the Sales head or the management to drive the sales of a certain 
+product to a certain achievement to reach specific outcome. This accelerator may vary from a Q to 
+another.  
+  
+ACCOUNT AKA CU STOMER OR PARTNER   
+   
+
+
+--- Page 39 ---
+ 
+39  
+  An entity t hat buys from or may buy from the company  
+BASE SALARY   
+ 
+The participant's base salary is a fixed amount that is determined by guidelines provided by the Human 
+Resources department, and according to factors such as the co mpetitive market, qualifications for the 
+position, and past performance. The base salary is paid in monthly installments.  
+  
+Base salaries are intended to compensate a participant for their responsibilities which may include 
+depending on your position, but  are not limited to, servicing accounts, information management, monthly 
+reporting, order administration, training, attendanc e at conferences and other required meetings.  
+  
+CANCELLATIONS   
+   
+Orders that are cancelled are considered not earned and any com mission or bonus payments made will be 
+recovered. Cancellations are posted in the period in which they occur and processed as  negative 
+transactions.  
+  
+COMMISSION   
+   
+Commission is variable pay tied to sales revenue, unit sales, profit or some other volum e-based metric.  
+ELIGIBILITY   
+   
+Only those employees who are classified as participants in a Plan and who have signed this Plan form are 
+eligible to participate in the Plan. All participants must comply with all terms and conditions outlined in 
+the plan and with general employment practices and policies of the company. They are also responsible 
+for selling or supporting only a uthorized Line of Business and services in their assigned territory.  
+  
+MIX   
+   
+The relationship of the elements in the compensati on plan expressed as a percent. It may be salary and 
+incentive relative to Target Total Compensation or commission and bonus relative to Target Incentive 
+Compensation.  
+  
+NEW CUSTOMER   
+   
+A customer is considered to be new when the customer has not done b usiness in the past with the 
+Company and there are no contingencies or contract terms to prevent the company from being able to 
+recognize revenue in conjunction with company policies and re lated accounting standards.  
+  
+QUOTA   
+   
+
+--- Page 40 ---
+ 
+40  
+  Quota is the expected lev el of attainment assigned to a participant for the year/ Quarter. Occasionally it is 
+necessary to change quota. Quota changes are effective from the point of change forward. Quota changes 
+are effective for the full quarter. There will be no partial quarter  quota changes. All future commission 
+earned will be calculated based on the new revised quota. Changes to quotas will be made in writing to 
+the Participant.  
+  
+  
+RESIGNATION   
+   
+The resig nation should be done by the end of each Q, and if the employee res igned before the end of the 
+current Q, his commission will be calculated based on the Q targets  
+  
+PAYMENT   
+   
+A payment is the transfer of wealth from one party to another (in our case, the payment should be done 
+from the customer to the company). Paymen ts are frequently preceded by an invoice or result in a receipt.  
+  
+  
+Each issued invoice has a grace period predefined by the collection team. If the customer did not pay the 
+due invoice on time, the collection team will postpone the required collected am ount to the next period, 
+i.e. the due commission related to this payme nt will be postponed till the company collects it  
+The sales person will not be eligible for the payment’s commission in the following cases:  
+  
+1- If this payment was transferred to the le gal department because the 
+customer does not want to pay it.  
+2- If the p ayment is 548 days overdue. 3 - If the sales person has 
+resigned.  
+  
+  
+ADMINISTRATION  
+  
+PAYMENT   
+   
+The Company will make reasonable efforts to pay commissions and bonuses within 30 day s after the end 
+of each quarter.  
+  
+RECOVERY   
+   
+Overpayments may result from cancelled orders, splits, etc. and are recoverable against all incentive 
+earnings. That is, 100% of the earned incentives are applied to repayment until the overpayment has been  
+paid in full. If there is not enough earned incentives to pay off the overpayment in the current month a 
+liability is created. This liability will be carried forward unti l the overpayment balance is zero. Upon 
+
+--- Page 41 ---
+ 
+41  
+  termination, any remaining liability will be deducted from any amount due to the employee for wages, 
+accrued vacation, bonuses, etc.   
+
+--- Page 42 ---
+ 
+42  
+  4.0 STANDARD OF CONDUCT   
+  
+4.1 WORKPLACE SMOKING POLICY  
+  
+INTRODUCTION   
+   
+Passive smoking/secondhand smoke has been medically proven to cause the same health damag e for non -
+smokers. It is a duty on LDC to provide a working environment for employees that is, so far as is reasonably 
+practical, safe, without risk to health and adeq uate as regards to facilities and arrangements for welfare at 
+work.  
+  
+Therefore, the fol lowing policy has been adopted concerning smoking inside LDC premises 
+SCOPE   
+ 
+All LDC employees  
+  
+GENERAL PRINCIPLES   
+   
+Under the Health and Safety at Work Order, employees have duties to take reasonable care for the health 
+and safety of themselves and  others as well as cooperate to comply with the requirements of the Health 
+and Safety at Work.  
+  
+The premise of LDC is designated as smoke -free with adequate signage to inform employees and visitors 
+of the smoke -free status of the building.  
+  
+Smoking is not permitted in any work area. This applies to lifts, toilets, meeting rooms, reception areas, 
+entrance and all offices and work areas, whether occupied by one person, or shared by two or more.  
+  
+Smoking may be permitted as appropriate only on LDC roof b uilding  
+ENFORCEMENT OF THE POLICY   
+ 
+Breaches of this policy will be subject to the normal discip linary procedures.  
+4.2 SAFETY AT WORKPLACE POLICY  
+  
+  
+INTRODUCTION   
+   
+
+--- Page 43 ---
+ 
+43  
+  LDC insists on providing a safe and healthy work environment for employees, customer s and visitors. Its 
+success depends on the alertness and personal commitment of all.  
+  
+SCOPE   
+   
+All LDC employees  
+GENERAL PRINCIPLES   
+ 
+The following actions/practices are expected from LDC employees  
+  
+• Protect your own property at work  
+  
+• Report all i ncidents or accidents, however minor, to your manager and let us know if you become 
+aware of any hazard or unsafe act  
+  
+• In the case of accidents that result in injuries, please immediately notify the facilities supervisor 
+on shift  
+  
+ENFORCEME NT OF THE PO LICY   
+   
+Employees who violate safety standards, cause hazardous or dangerous situations, or fail to report, or 
+where appropriate, remedy such situations, may be subject to disciplinary action including ending of the 
+employment contract.  
+  
+In the case of  an accident that results in injury, regardless of how insignificant the injury may appear, 
+employees should notify their supervisor and the Administration Department immediately.  
+  
+  
+  
+4.3 DRESS CODE POLICY  
+  
+INTRODUCTION   
+   
+It is the responsibility o f each employee to maintain LDC positive image to customers, competitors, and 
+visitors, the public and fellow employees. As company representatives, employees should convey, in their 
+actions and personal appearances, the quality a nd professionalism that wi ll assure the ongoing growth and 
+success of the company.  
+SCOPE   
+   
+
+--- Page 44 ---
+ 
+44  
+  All LDC employees  
+GENERAL PRINCIPLES   
+ 
+As a principle, LDC is following a casual, relaxed and informal dress code. Our Company's objective in 
+establishing a relaxed, casual, and informa l work dress code is to enable our employees to work comfortably 
+in the workplace. Yet, certain standards are established so employees are not confused about the meaning 
+of the terms: relaxed, casual, and informal dress.  
+  
+In a casual work setting, employ ees should wear clothing that is comfortable and practical for work. 
+Certain cloths such as Slippers, Flip -flops and Shorts must be avoided as well as clothing that has words, 
+terms, or pictures that may be offensive to other employees.  
+  
+Sports teams, un iversity, and fashion brand names on clothing are generally acceptable.  
+  
+On the occasions when a customer or  a business partner does visit the office, the employee groups with 
+whom the visitor is interacting, should adhere to business casual or formal st andards.  
+  
+ENFORCEMENT OF THE POLICY   
+   
+Breaches of this policy will be subject to the normal disciplinary procedures.  
+  
+  
+  
+4.4 WORKPLACE COMMUNICATION POLICY  
+  
+INTRODUCTION   
+   
+LDC believes in good communications among all employees at all levels. We must respect each 
+employee, worker, customer and stakeholder as an individual, showing politeness, care and consideration.  
+  
+Therefore, the following policy has been adopted concern ing smoking inside LDC premises 
+SCOPE   
+ 
+All LDC employees.  
+
+--- Page 45 ---
+ 
+45  
+  GENERAL PR INCIPLES   
+   
+The following communication practices are strictly prohibited:  
+  
+• Minimizing or disregarding the other person's feelings.  
+  
+• Using inappropriate tone or volume when talking to someone in the environment.  
+  
+• Making offensive expressions or ges tures.  
+  
+• Mixing religious context with professional and business contexts.  
+  
+• Insulting, or using offensive names, adjectives or descriptions.  
+  
+• Making threats to the other person.  
+  
+Professionalism is expected in all our actions when dealing with any e mployee, worker, customer or 
+stakeholder. This includes:  
+  
+• Respecting other traditions, cultures and religions in all our interactions and communications.  
+  
+• Committing to and demonstra ting equal treatment without regard to race, gender, religion, age 
+and national origin.  
+  
+• The use of religious, cultural or traditional symbols is strictly prohibited in all forms of 
+communication including, but not limited to company documents, emails, n ewsletters, 
+presentations and meetings.  
+  
+Employees are encouraged to  offer positive and constructive feedback. If employees can express their 
+concern through the problem resolution procedure.  
+  
+No employee will be penalized, formally or informally, for voicing a complaint with the Company in a 
+reasonable, business -like ma nner, or for using the problem resolution procedure  
+  
+It is company policy to provide a workplace free from harassment. All sorts of harassments are 
+completely prohibited which include,  but are not limited to:  
+  
+• Verbal harassment (epithets, derogatory st atements, slurs)  
+  
+• Physical harassment (hitting, pushing or other aggressive physical contact).  
+  
+• Visual harassment (posters, cartoons, drawings).  
+  
+
+--- Page 46 ---
+ 
+46  
+  • Sexual harassment i.e. Sexual advances, requests for sexual favors, sexual epithets and verbal or 
+physic al conduct of a sexual nature.  
+  
+ENFORCEMENT OF THE POLICY   
+   
+Breaches of this policy will be sub ject to the normal disciplinary procedures.  
+  
+4.5 Workplace Etiquette Policy  
+  
+  
+INTRODUCTION   
+   
+LDC insists on providing a professional business work e nvironment for employees, customers and 
+visitors. It’s also intended to demonstrate professionalism and take into consideration the diversity of the 
+population, which we deal with, as well as the diver sity of our coworkers.  
+  
+Its success depends on the al ertness and personal commitment of employees.  
+GENERAL PRINCIPLES   
+ 
+Because of the office structure and arrangement, it is necessary that everyone be conscious of the need for 
+a quiet atmosphere conducive to the work done in the area.  
+Workplace etiquette  shall follow these standards as upheld by supervisors.  
+TELEPHONE USAGE:   
+   
+• Limit speaker phone conversations that may be disruptive to your fellow workers, or breach 
+confidentiality. Pay particular attention when in a cubicle. Talkin g over the phone in  general must 
+be in a level that is not disruptive  
+• The volume of your speakers should not be so loud it can be heard in the next cubicle or 
+workplace. Speakers should always be turned down when answering the phone or conducting 
+business   
+• Mobile phones can  be an extremely disruptive for other colleagues in the workplace. The 
+distraction caused by these devises can lead to a reduction in concentration, loss of productivity, 
+extension of working hours also frustration amongst fellow workers . To keep disturbin g effects to 
+a bare minimum, employees should:  
+  
+• Set mobile phones at low volume or vibrate in the work environment  
+• Don’t interrupt colleagues by answering a mobile phone 
+   Don’t answer the mobile whilst in a 
+meeting.  
+• If it is necess ary to speak on the  phone in the presence of others then do so in low tones   
+
+--- Page 47 ---
+ 
+47  
+  PHOTOS AND PERSONAL BELONGINGS   
+ 
+• Photographs may be placed in the workplace, but  should not become as numerous as to restrict 
+the available workspace. Personal items such as plants, decorative vase s, and collectibles may 
+also be displayed as long as they do not interfere with the LDC ability to conduct business or 
+damage the professio nal atmosphere. All items brought into the workplace for the purpose of 
+decoration are the sole responsibility of the  employee; LDC is not legally responsible for any 
+missing items.  
+• Plaques, wall hangings, and hanging pictures must be in keeping with the professional nature of 
+our business, avoiding anything that could be interpreted as conveying a personal religious be lief, 
+personal political belief, discriminatory message regarding race, gender, religion, disability, 
+sexual orientation, or age.  
+  
+PRAYIN G AND RELIGION RITUALS:   
+   
+• Employees have constitutional rights to express their faith in the workplace as long as that 
+expression does not interfere with the work setting. Religion rituals are not allowed to be 
+performed in public business areas such as  meeting rooms, cafeteria or free workstations. 
+Religion rituals must be performed only in the designated areas in th e building  
+• Employees are highly requested to place their shoes in the designated areas inside the praying 
+rooms and not to take it off and  leave it outside the rooms.  
+  
+EATING ETIQUETTE:   
+   
+• Having Food is not allowed in the workplace. Some types of foo ds have strong odors/ingredients 
+that can be disruptive or allergic to other colleagues in the office. Eating is only allowed in the 
+designated break areas such as the roof area and the roof caf eteria  
+  
+ENFORCEMENT OF THE POLICY   
+   
+Breaches of this poli cy will be subject to the normal disciplinary procedures.  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- Page 48 ---
+ 
+48  
+   
+4.6 NON -DISCLOSURE/CONFIDENTIALITY POLICY  
+  
+INTRODUCTION   
+   
+The protection of confidential business information and trade secrets is vital to the interests and success of 
+LDC.  
+  
+SCOPE   
+   
+All LDC employees.  
+GENERAL PRINCIPLES   
+   
+Such confidential information includes, but is not limited to, the following examp les are considered as 
+confidential information:  
+  
+• Financial information  
+  
+• LDC strategies  
+  
+• Pending projects and proposals  
+  
+• Information contained in LDC files and records, whether paper or computer records  
+  
+• LDC clients’ information  
+  
+• Personnel/Payroll records  
+  
+• Conversations between any persons associated with LDC   
+ENFORCEMENT OF THE POLICY   
+ 
+Employees who improperly use o r disclose trade secrets or confidential business information will be 
+subject to disciplinary action, including ending of the employment contract and legal action, even if they 
+do not actually benefit from the disclosed inform ation.   
+
+--- Page 49 ---
+ 
+49  
+  5.0 TRAVEL POLICY   
+  
+5.1 PURPOSE  
+  
+The purpose of the business trips policy is to regulate and provide information and guidelines for travellers  with 
+duration ranging from 1 to 30 working day(s).  
+  
+5.2 PROCEDURE  
+  
+Step1: The employee travelling on a business trip is require d to submit “Online Travel Request”. Through the 
+intranet, the request will be forwarded to the traveller’s immediate manage r for approvals within the following time 
+frame  
+  
+ 48hrs prior date of travel if it’s Domestic business trip.  
+ 1 Week prior date of travel if it’s abroad &NO visa required.  
+ 2 Weeks prior date of travel if it’s abroad & visa required.  
+  
+Notes:   
+• Schengen visas are processed upon the interview appointment so request should be sent a month earlier.  
+• In case of urgent trip an email from t he direct manager should be sent to explai n in details the business trip 
+objectives.  
+  
+Step 2: After completion, automatically the travel request report is sent to the budgeting Dept. for approval.  
+  
+Step 3: Once the travel request is approved, the admin istration Dept. will proceed with purchasi ng the airline ticket, 
+prepare accommodation…. etc.  
+  
+Step4: Once the trip logistics are accomplished, the administrator responsible is to close the request to enable the 
+employee gets his/her per diem.  
+  
+• The tra vel request must include the trip objectives, duration and destination.  
+  
+5.3 GENERAL POLICY  
+1. It is the responsibility of the employees to become familiar with the travel policy and its requirements before 
+the start of the business trip.  
+2. It is the respon sibility of the employees to update any private documents such as passport in case it is not valid, 
+or the profession needs to be updated.  
+3. All travel tickets and hotel reservation are handled through the Administration department.  
+4. Only the administration  dept. is the interface with the travel agencies/hotels.  
+  
+5.4 HEALTH/MEDICAL INSURANCE  
+  
+
+--- Page 50 ---
+ 
+50  
+  Our medical insurance plan includes a medical coverage in case of emergencies only to all our employees travelling 
+on business trip. The empl oyee will pay the cost and will be refunded later based on Dar El Fouad prices.  
+  
+  
+5.5 TRAVEL ALLOWANCE/PER -DIEM  
+  
+Travel allowance is paid to employees at all levels. It will be cashed in advance after the finalization of the business 
+trips. Travel All owances should cover th e following meals, transportation, tips….  
+• Travellers shall be paid a meal allowance for each breakfast, if not supplied and paid within 
+accommodation; it will be reimbursed back as per accommodation section details.  
+• Daily Per -Diem is as per per below pla n:  
+  
+• Top Management Per -Diem:  
+  
+Country    
+Amount    
+Currency    
+Duration  
+Europe  120  $  Per Day  
+Rest  100  $  Per Day  
+Egypt  120  L.E  Per Day  
+  
+• LDC Team:  
+    
+Country  Amount    
+Currency    
+Duration  
+Europe  120  $  Per Day  
+Rest  80  $  Per Day  
+Egypt  120  L.E  Per Day  
+  
+• Per-Diem Calculation method/ Day:  
+  
+ Flight Line     Time of Ar  rival  
+ Before 12 PM  After 12 PM  
+     
+Going   1 Day Per -Diem  ½ Day Per -Diem  
+Coming Back   ½ Day Per -Diem  1 Day Per -Diem  
+  
+  
+• N.B: calculation time for both are according to the departure time.  
+  
+• Breakfast allowance 10$ Per = 40.00 AED Day  
+  
+The company will not cover expenses exceeding the guidelines mentioned below.  
+
+--- Page 51 ---
+ 
+51  
+    
+5.6 AIR FARE  
+  
+The standard for air travel is economy. The lowest availab le airfares appropriate to the particular itineraries should be 
+sought when making bookings. Business  trips request must be done as early as possible to be able to obtain good rates.  
+  
+• Egypt Air is the main airline.  
+• The route of the trip is determined ac cording to the business need of the traveler taking into consideration 
+Egypt air is the main airline.   
+• Direct flight will have first priority.  
+• In case of connections, same carrier has priority unless there is no availability.  
+• It is the responsibility of the employees to reconfirm their tickets for their return flights 24hours before 
+departure.  
+  
+5.7 ACCOMMODATION  
+  
+Accommodation should be in hotels where LDC has negotiated corporate rates.  
+  
+• Hotel location should be consider ed to cater for avoiding lon g distances from the company office/customer 
+location as it incurs employee time, and extra cost in transportation.  
+• Accommodation provides a saving and when more cost effective is utilized as long as it’s not less than 3 
+stars.  
+• A single room with a priva te bath is the standard.  
+• All reservation based on Bed & Breakfast basis.  
+• Employees traveling together may choose to  share a room when feasible and agreeable to travelers.  
+• Breakfast should be included in accommodation. In case of accommodation in furnish ed apartments, this 
+should be catered by the facilities representative to be added to the traveler per -diem or refund ed after 
+return.  
+  
+5.8 TRANSPORTATION  
+  
+• Transportation from Airport to accommodation destination and vice versa will be reimbursed.  
+• Loca l transportation such as public transportation and underground is a part of the per -diem that should be 
+utilized for business related transportation whenever possible.  
+  
+5.9 OTHER REIMBURSABLE EXPENSES  
+  
+5.9.1 REIMBURSABLE EXPENSES   
+   
+Actual and reason able business expenses required while on a trip and not covered elsewhere may be reimbursed as 
+follows:  
+  
+
+--- Page 52 ---
+ 
+52  
+  • Currency fluctuations in exchange rates.  
+• Laundry service during trips in excess of 15 days.  
+• Transportation from and to airport in the country desti nation.  
+• Business expenses such as corporate dinner for client in a course of doing business with prior approval of 
+the direct head.  
+  
+Note: Required refunds should be sent to be processed at least a week upon arrival.  
+5.9.2 NON - REIMBURSABLE EXPENSES   
+   
+The following are examples of expenses are generally NOT reimbursable:  
+  
+• Traffic and parking fines.  
+• Upgrade requests.  
+• Air or rental vehicle phone usage.  
+• Excess baggage fees.  
+• Car rental fuel and parking fees.  
+• Any additional expenses are not mention ed on the reimbursable list.  
+  
+5.10 EXPENSE REPORTING AND REIMBURSEMENT  
+  
+After the employee has completed the “Travel Expenses Report”, it should be revised,  checked and approved for 
+allowed expenses by his manager.  
+  
+All expenses in the travel report shall be justified by ticket stubs, receipts, bills or statements. Should for any reason 
+no receipt exist, the employee must hand in a receipt replacement note,  specifying reason for the missing receipt and 
+a description of the claimed expenses.  
+  
+After c ompletion, the report shall be approved by Facilities Dept. then sent to the Finance Dept.  
+To fill the “Travel Expenses Report”, Please print the page below.   
+
+--- Page 53 ---
+ 
+53  
+    
+ 
+    
+    طلــب صـرف مصـروفــات / عهــدة 
+  
+ التـــــاريـــــخ:    / / 
+ الرجـــــــــاء صــــــــرف النقديـــــــة أدن ـــاه إلى : .....................................................................  
+  السيــــــــد / ................................... إدارة / .................................قســـم / .................. 
+  
+  
+  
+قسم/إدارة  رقم الفاتورة  البــيـــــــــــــــــــــــــــــــــــــــــان  المبــلــــــــــــــغ    م 
+          
+1  
+          
+2  
+          
+3  
+          
+4  
+          
+5  
+          
+6  
+          
+7  
+          
+8  
+          
+9  
+          
+10  
+          
+11  
+          
+12  
+      االجمالي  
+
+
+--- Page 54 ---
+ 
+54  
+    
+  توقيع الطالب     
+      
+ المراجـع   مدير االدارة  يعتمـــــــــــــد   
+APPENDIX A   
+  
+  
+ACCOMMODATION  
+  
+  
+  
+Level    
+  
+Destination    
+  
+Rates  
+  
+  
+  
+  
+  
+  
+  
+Directors /Executives    
+Europe    
+Up to 220 Euro  
+  
+Middle East    
+Up to $220  
+  
+Africa    
+Up to $220  
+  
+Far East    
+Up to $200  
+  
+USA& Canada    
+Up to $200  
+  
+Domestic    
+EGP 850  
+  
+  
+  
+  
+  
+  
+  
+  
+Managers    
+Europe    
+Up to 180 Euro  
+  
+Middle East    
+Up to $ 170  
+  
+Africa    
+Up to $150  
+  
+Far East    
+Up to $150  
+  
+USA& Canada    
+Up to $180  
+
+--- Page 55 ---
+ 
+55  
+    
+Domestic    
+Up to EGP 750  
+  
+  
+Junior / Senior profession    
+Europe    
+Up to 160 Euro  
+  
+Middle East    
+Up to $ 140  
+    
+Africa    
+Up to $ 120  
+  
+Far East    
+Up to $ 120  
+  
+USA& Canada    
+Up to $ 160  
+  
+Domestic    
+Up to EGP 650  
+  
+  
+  
+Note: Every Employee should submit the original documents & invoices supporting his/her expenses during the 
+business trip.  
+  
+  
+  
+ Per Diem  
+• Per-diem for Employees from other LDC offices/branches coming to Cairo $50/day.  
+• Per-diem for  local staff Expenses in tr avelling inside Emirates 75 DHS/day.  
+• Per-diem for local stuff in travelling inside KSA 60$ / day.   
+
+--- Page 56 ---
+ 
+56  
+    
+APPENDIX B   
+  
+  
+ALLOWANCE/PER -DIEM  
+  
+   
+  
+Country    
+Per Diem  
+  
+Gulf ( United Arab Emirates,  
+Oman, Bahrain, Qatar, Saudi  
+Arabia, and Kuwait) , Middle East, 
+Arab counters, and Pakistan    
+  
+  
+80$/ day  
+  
+  
+Africa    
+  
+80$/ day  
+  
+  
+USA &Canada    
+  
+80$/ day  
+  
+Europe    
+  
+100$/ day  
+  
+Domestic    
+120 LE/ day  
+6.0INTERNATIONAL ASSIGNMENTS   
+  
+  
+PURPOSE OF THE POLICY:   
+   
+To support employees who will be to selected for an international assignments within LDC Group  
+6.1 LONG ASSIGNMENT POLICY   
+  
+
+--- Page 57 ---
+ 
+57  
+  6.1.1 OBJECTIVES  
+  
+The purpose of the policy is to support employees who will be on a long work assignment outside their current 
+working location for more than 6 months and up to 1 year, due to business needs, by setting the needed rules related 
+to their move to the new country.  
+  
+6.1.2 SCOPE / ELIGIBILITY  
+  
+All LDC employees who are being relocated to destinations outside their c urrent working location  
+  
+6.1.3 PROCEDURES  
+  
+Upon receiving the confirmation on the assignment, the direct manager should send an email to the HR Business 
+Partner and provide required details such as employee name, assignment country and the duration of th e assignment 
+…. etc.  
+And in parallel, the em ployee travelling on a business trip is required to submit “Online Travel Request” through the 
+intranet.  
+  
+Once the travel request is approved, the administration Department –in coordination with the Admin of t he regional 
+office – will proceed with all log istics (purchasing the airline ticket, preparing accommodation… etc.)  
+  
+6.1.4 TRAVERL ALLOWANCE/PER -DIEM  
+  
+Travel allowance is paid to employees at all levels. From the beginning of the assignment and up to 6 months, the 
+whole period will be as a normal business trip (with a normal periderm of each country, and hotel reservation).  
+  
+For assignments lasted for more than 6 months and up to 1 year, the employee will be getting a travel allowance 
+amount including all travel expenses (that should cover meals,  transportation, accommodation…), in addition to the 
+normal salary in Egypt. Travel allowance amount will be as follow:  
+  
+  
+Country     
+Travel Allowance Amount   
+  
+UAE    
+AED 15,000  
+  
+KSA    
+SAR 14,000  
+  
+Qatar    
+QR 15,000  
+In case the assignment duration is (6+ months) and know prior to the assignment start date, the employee can have 
+the option to get above mentioned package starting from the 2nd month of the assignment. In all cases, first month is 
+based on normal business  trip (with per -diem and hotel reservation).  
+  
+
+--- Page 58 ---
+ 
+58  
+  *(For Emirates, a regular travel allowance is paid until residence permit stamp and labor card granted to the 
+employee).  
+  
+6.1.5 MOBILE ALLOWANCE  
+  
+Based on the office scheme. Egypt mobile  allowance will stop.  
+  
+6.1.6  ATTENDANCE & VACATION  
+  
+Employees on long assignments will have different attendance and vacation set up as follows:  
+  
+- No sign in/out is required during long assignment and accordingly no absence notifications will be sen t 
+from the system until the end of the assignment.  
+- Weeken ds and national holidays will be according to the office rules and labor law in the country of 
+assignment.  
+- In case of absence from work for any reason such as annual, casual or sick leaves, the emp loyee must 
+communicate with the Attendance and Vacation te am the taken leave days and the reason. The system will 
+send reminders to the employees.  
+- In the occasion of urgent business needs, when the employee will have to work during their weekends or 
+durin g national holidays, the employee is required to communica te with the attendance and vacation team 
+for compensation according to the labor law in the country of assignment.  
+- The employee must follow the compensation policy guidelines to be eligible for com pensation  
+  
+6.1.7 OTHER GUIDLINES  
+1- The employee is entitled to 1 flight ticket (from and/or to home country) during the first 6 months of the 
+assignment. In case the assignm ent will be renewed for another 6 months, another flight ticket will be 
+granted.  
+  
+2- In case of travelling back to Egypt -more than 1 week - for vacation, contract renewal, visa/residency issues, 
+or any other reason; the below rules will be applied:  
+- Company  will not pay a travel allowance for this period.  
+- Company will pay for the employ ee the fixed expenses (apartment renting fees, electricity... etc.).  
+- Salary in Egypt will be paid as is.  
+- If not on vacation, employee should come to the HQ in EGY, sign nor mally and work during this 
+period from the office.  
+- Employee should open a new bus iness trip & choose HQ Site or customer site or vacation for 
+informing us if he is coming to Egypt or going to the customer or vacation to take necessary 
+actions.  
+3- Getting a Driving License or renting a vehicle is the responsi bility of the employee.  
+  
+6.2 REALLOCATION POLICY   
+  
+
+--- Page 59 ---
+ 
+59  
+  6.2.1 OBJECTIVES  
+  
+The purpose of the policy is to support employees who will reallocated outside their current working location for 
+more than 1 year, due to business needs, by setting the needed rules related to their move to the new country.  
+  
+6.2.2 SCOPE / ELIGIBILITY  
+  
+All LDC employees who are being relocated to destinations outside their current working location  
+  
+6.2.3 PROCEDURES  
+  
+Upon receiving the confirmation on the assignment, the direct manager should send an email to the HR Business 
+Partner and provide requ ired details such as employee name, assignment country and the duration of the assignment 
+…. etc.  
+And in parallel, the HR Business Partner is required select “Reallocation” option in the new member mail to allow 
+the employee to start his resignation proce dures from the current work location  
+  
+6.2.4 OTHER GUIDELINES  
+  
+The labor law of the new country will be reference for both the employee and the company.  
+  
+End of Service “if any” will be according to the norma l LDC rules by the end of the employee’s as signment in LDC 
+Group.  
+7.0  TRAINING POLICY   
+  
+7.1 Responsibility for Training   
+  
+7.1.1 MANAGEMENT TEAM'S ROLE  
+1.  
+2.  
+3.  Demonstrate a commitment to train and develop employees in relation to the organizatio n’s objectives.  
+Ensure that learning and development plans are focused on organization’s needs at corporate and service 
+levels and provide adequate resources.  
+Ensure learning and development actions are evaluated in relation to service and organizational  objectives 
+and the benefits clearly identified.  
+7.1.2  MANAGERS' ROLE  
+
+--- Page 60 ---
+ 
+60  
+  1.  
+2.  
+3.  
+5.  
+6.  
+7.  
+8.  Induct new employees. Identify training needs jointly with employees in relation to individual objectives.  
+Formulate training plans in liaison with each  subsidiary HR Business Partner and the holding Learning & 
+Development Lead.  
+Carry out on -the-job coac hing.  
+Make all employees aware of learning and development opportunities open to them, select employees for 
+training and brief them.  
+Ensure that those who are trained share their learning with others wherever possible and appropriate.  
+Evaluate the effectivenes s of training events in relation to service and individual objectives with those 
+involved.  
+Monitor improvement in individual performance.  
+7.1.3  LEARNING & DEVELOPMENT DEPARTMENT ROLE:  
+1. Set the learning & development strategies, policies & procedures.  
+  
+2. Verify and validate the effectiveness of the training and development program.  
+  
+3. Implement training strategies, which are appropriate and effec tive in the development of the staff.  
+  
+4. Coordinate with HR business partner the training needs assessment of each subsidiary.  
+  
+5. Design training activities in accordance with development plans & strategic initiatives.  
+  
+6. Publicize training activities.  
+  
+7. Manage training budget.  
+
+--- Page 61 ---
+  
+61  
+  7.1.4 HR BUSINESS PARTNER ROLE  
+1. Assist Managers to identify and quantify training needs.  
+  
+2. Develop an annual training plan and assist with the formulation of departmental training plans.  
+  
+3. Coordinate specific training activities .  
+  
+4. Facilitate the effective evaluation of training activity in liaison with appropriate managers at 
+individual, service and organizational levels.  
+  
+7.1.5 EMPLOYEE’S ROLE  
+1. Identify personal training needs in relation to their personal objectives and dep artme nt plans.  
+  
+2. Be aware of training and development opportunities open to them and request training where 
+appropriate to their training needs.  
+  
+3. Evaluate the effectiveness of training with their manager.  
+  
+4. Share learning with colleagues wherever possi ble a nd appropriate.  
+  
+7.2 Rules and Regulations   
+  
+7.2.1 GENERAL REGULATIONS  
+1. All learning & development activities should be done through the HR department.  
+  
+2. Training and Development of employees should be relevant to their position.  
+  
+3. Development pl ans should be on a yearly basis to be revised semi -annually.  
+  
+4. Learning & Development department is the responsible for choosing the vendor where the 
+employee is going to attend his/her course.  
+  
+5. Design training activities in accordance with development plans & strategic initiatives.  
+  
+6. Publicize training activities.  
+  
+7. Manage training budget.  
+
+--- Page 62 ---
+  
+62  
+    
+7.2.2 ELIGIBILITY  
+1. All full time  employees are eligible to apply for external training courses/certificates after successfully 
+passing their 3 months probation p eriod  
+  
+2. Every employee has the right to attend a minimum of 1 and a maximum of 2 external courses per year.  
+7.2.3 APPROVAL RE GULATIONS  
+Approval of any course/certificate is based on:  
+  
+ 
+  
+1. The employee should not attend the course/certificate unless th e above mentioned 3 points are met.  
+  
+2. In case the employee didn’t get a budget approval, this means that the company is not willing to pay OR 
+reimburse his/her course/certificate.  
+  
+3. In case one of the 3 parties mentioned in point 8 rejected the request, then the employee should not 
+proceed wi th his/her request.  
+  
+7.2.4 PROCEDURE  
+  
+ 
+7.2.5 CERTIFICATIONS & EXAMS  
+ 
+  
+ 
+  
+Budget ing approval  
+  
+Direct  Manager  
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+
+--- Page 63 ---
+  
+63  
+  In the event of certificates/exams the payment procedures goes as follows:  
+  
+ 
+  
+  
+7.3 Training Attendance Policy   
+  
+7.3.1 INTERNAL COURSES  
+Apologies for not attending should be sent to HR@linkdatacenter.net   
+  
+2 working days prior to the training day  
+ 
+  
+ 
+  
+L&D  dep. Recommends  provider  
+  
+ 
+  
+ 
+  
+ 
+  
+  
+ 
+  
+ 
+  
+  
+  
+
+--- Page 64 ---
+ 
+64  
+  
+ 
+  
+ 
+• Considered as No Show  
+  
+• Employee banned from attending any course the following quarter.  
+• Logged as “work on it” Journal note  
+  
+  Excuses less than 2days prior to training start date with valid justification signed by manager (copied in  
+ email)   
+• the employee will be in the least priority order to attend in the 2nd round.  
+  
+ 
+• the employee wi ll not be entitled to future training in the same year.  
+  
+ 
+• the employee will not be entitled to attend this course again in the same year  
+  
+  
+7.3.2 EXTERNAL COURSES:  
+Same for Internal courses cases in addition to:  
+  
+•  A penalty fees will be deducted from the employee’s department bud get based on the service 
+provider’s cancellation policy.  
+  
+7.3.3 CERTIFICATIONS & EXAMS  
+Same for Internal courses cases in addition to:  
+  
+•  A penalty fees will be deducted from the employee’s department budget based on  the service 
+provider’s cancellation policy.  
+  
+ 
+  
+  
+ 
+  
+  
+ 
+  
+  
+ 
+  
+  
+No Show  (Drop  out) 
+  
+  
+ 
+  
+  
+ 
+  
+
+--- Page 65 ---
+ 
+65  
+  7.4 Training Commitment   
+  
+7.4.1 DESCRIPTION  
+The Company reserves the right to recover part(s) of the financial investment made in training the employee in the 
+event of:  
+  
+1. The employee chose to leave the C ompany, early or shortly after receiving training, for any reason 
+whatsoever.  
+  
+The employee will repay all or part of the cost of training in accordance with the policy guidelines in the event that 
+they choose to leave the Company for any reason whatsoev er.  
+  
+ 
+The Pay - back process will be only applied to any traini ng course/certificate, excluding Travel and accommodation 
+expenses according to the total cost mentioned below:  
+  
+  
+Amount - Scale   Duration   Notes   
+Less Than 5,000 EGP   
+From 5,000 EGP - To 10,000 EGP   
+From 10,001 EGP - To 15,000 EGP   
+From 15,001 EGP - To 20,000 EGP   
+From 20,001 EGP - To 25,000 EGP   
+From 25,001 EGP - To 30,000 EGP   
+From 30,001 EGP - To 35,000 EGP   3 months   
+8 Months    
+11 Months  Prorating deduction  
+14 Months  will s tart after the End 
+Date of the  
+17 Months  course/program.  
+20 Months    
+24 Months   
+  
+For courses attended, the training costs will be calculated on a prorated base according to the period employees 
+stayed in the company after completion of the tra ining course versus the commitment period in the above schedule.  
+  
+Where multiple courses are  attended at different times then the amount that may be repayable at any time is the sum 
+of those arising from each course applicable, in accordance with the abo ve, at the time of leaving the Company.  
+  
+Employees at all levels and grades in the company a re subject to the above terms.  
+8.0 PROMOTION POLICY   
+ 
+  
+
+--- Page 66 ---
+ 
+66  
+    
+  
+8.1 POLICY OBJECTIVE  
+  
+It’s the Company policy to set rules & regulations for promotions to guarantee t he right selection for the best talents 
+for the business; as well as fairness for high performers and upon availability of job vacancy in the Company planned 
+headcount.  
+  
+8.2 SCOPE/ELIGIBILITY  
+• For promotions to managerial positions, the new position shou ld be vacant.  
+• Employee fulfills the qualifications & experience required for proposed position as indicated in Job 
+description.  
+• Employee has consistent high performance appraisal ratings; not less than “Fully meets Expectation” and at 
+least one “Exceeds Expectation” in  one of the last two consecutive annual appraisal reports. Special 
+achievements / awards will be taken into account.  
+• Employee should complete a minimum of the below years in the current position:  
+o Managers & Leads: 3 years.  
+o Juniors & Senio rs: 2 year.  
+• Employees who received disciplinary penalties during the last performance year shall not be entitled for 
+promotions before the elapse of one year from the penalty execution date. In all cases, the employee is not 
+entitled for pr omotions during  the procedures of disciplinary enquiries until a verdict has been reached in his 
+particular case.  
+  
+8.3 TOOLS USED FOR EACH LEVEL  
+  
+  
+  
+  
+Level    
+Tool    
+Exercise  
+  
+Managerial    
+Assessment Center    
+Role Play, Presentation Skills, Group Exercise + C BI  
+  
+Leads    
+Assessment Center    
+Role Play + CBI  
+  
+Senior    
+CBI    
+CBI  
+8.4 PROCEDURE  
+  
+  
+
+--- Page 67 ---
+ 
+67  
+   
+  
+1. Each manager sends the promotion request to the Subsidiary HR Business Partner.  
+2. The HR Business Partner verifies:  
+ o  Budget approval with the Finance team.  
+o Candidate’s eligibility for promotion, experience and qualifications are in line with the job 
+requirements. Moreover that the candidate is not locked for any moves (due to Internal 
+movement or received disciplinar y penalties).  
+o Job Description of the position.  
+  
+3. In case this is a new position and a Job Description is not available, then the Functional Manager 
+prepares the new JD which is evaluated & approved by the HR Department before the promotion 
+process starts .  
+4. After gettin g the MD approval, HR Department applies selection tools as follows:  
+  
+  
+Level    
+Tool    
+Exercise  
+  
+Managerial    
+Assessment Center    
+Role Play, Presentation Skills, Group Exercise + 
+CBI  
+  
+Leads    
+Assessment Center    
+Role Play + CBI   
+  
+Senior    
+CBI    
+CBI  
+  
+  
+5. All Promotions’ requests should be submitted to the HR department following the performance 
+appraisal process due in “February”. All requests must be approved by HR Department and 
+Managing Director.  
+
+
+--- Page 68 ---
+ 
+68  
+  6. After Calibration Proces s, salary Adjustments may occur and will be administered by the HR 
+Department as per annual approved company budget and guidelines. All new benefits, 
+allowances, bonus, etc. if applicable will be effective the date of promotion.  
+  
+8.5 OTHER GENERAL GUIDEL INES  
+  
+• Promotion plans are part of the Company People Planning Process.  
+• Proposed promotion percent should not exceed 15% of the Employee’s total population.  
+• For promotions to managerial positions, the new position should be vacan t.  
+• Promotion Process is  performed in “April”. No promotion requests will be accepted otherwise.  
+• Promotions should be reflected in summary part shown in employee performance appraisal form.  
+• Promotion locks the employee in his position as below for any fu rther career moves.  
+  
+o  Managers & Leads : 3 
+years. o  Seniors  : 2 years.  
